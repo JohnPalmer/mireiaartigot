@@ -59,7 +59,7 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="{{ site.url }}">HOME <span class="sr-only">(current)</span></a></li>
+        <li class="active"><a href="{{ site.url }}">{{ site.t[page.lang].home }} <span class="sr-only">(current)</span></a></li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">CV <span class="caret"></span></a>
           <ul class="dropdown-menu">
@@ -68,8 +68,8 @@
           </ul>
         </li>
       <li><a href="{{ site.url }}/under_construction">{{ site.t[page.lang].research }}</a></li>
-      <li><a href="{{ site.url }}/under_construction">TEACHING</a></li>
-      <li><a href="{{ site.url }}/under_construction">OTHER</a></li>
+      <li><a href="{{ site.url }}/under_construction">{{ site.t[page.lang].teaching }}</a></li>
+      <li><a href="{{ site.url }}/under_construction">{{ site.t[page.lang].random }}</a></li>
         
       </ul>
     </div><!-- /.navbar-collapse -->
