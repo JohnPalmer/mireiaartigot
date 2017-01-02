@@ -1,3 +1,8 @@
+---
+layout: default
+lang: en
+---
+
 # Mireia Artigot i Golobardes - CV
 
 ## Formació Acadèmica
