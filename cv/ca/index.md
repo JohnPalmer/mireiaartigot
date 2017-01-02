@@ -2,16 +2,16 @@
 
 ## Formació Acadèmica
 
-[Cornell Law School](http://www.lawschool.cornell.edu/), **Juris Science Doctor (J.S.D.)**, 2011
+> [Cornell Law School](http://www.lawschool.cornell.edu/), **Juris Science Doctor (J.S.D.)**, 2011
 Tesi Doctoral: Beyond Product Liability: Its mixed nature and performance
 
-[Cornell Law School](http://www.lawschool.cornell.edu/), **Màster en Dret, (LLM)**, 2002
+> [Cornell Law School](http://www.lawschool.cornell.edu/), **Màster en Dret, (LLM)**, 2002
 
-[Universitat Pompeu Fabra](https://www.upf.edu/fdret/) (Barcelona), **Llicenciatura en Dret** , 2001
+> [Universitat Pompeu Fabra](https://www.upf.edu/fdret/) (Barcelona), **Llicenciatura en Dret** , 2001
 
-[Universitat Pompeu Fabra](http://www.econ.upf.edu/ca/) (Barcelona), **Llicenciatura en Ciències Econòmiques i Empresarials** , 1997
+> [Universitat Pompeu Fabra](http://www.econ.upf.edu/ca/) (Barcelona), **Llicenciatura en Ciències Econòmiques i Empresarials** , 1997
 
-[Conservatori Superior Municipal de Música](http://www.cmmb.cat/ca/el-conservatori_1176#.V5ziuKL8qUQ) (Barcelona), **Títol Superior de Piano (Llicenciatura en Piano)**, 2001
+> [Conservatori Superior Municipal de Música](http://www.cmmb.cat/ca/el-conservatori_1176#.V5ziuKL8qUQ) (Barcelona), **Títol Superior de Piano (Llicenciatura en Piano)**, 2001
 
 ## Recerca i Àrees de Docència
 
