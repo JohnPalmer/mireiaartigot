@@ -81,9 +81,15 @@ t:
   en:
     home:  "HOME"
     research: "RESEARCH"
+    teaching: "TEACHING"
+    random: "RANDOM"
   ca:
     home:  "HOME"
     research: "RECERCA"
+    teaching: "DOCÈNCIA"
+    random: "PIZZICATTOS"
   es:
     home:  "HOME"
     research: "INVESTIGACIÓN"
+    teaching: "DOCENCIA"
+    random: "PIZZICATTOS"
