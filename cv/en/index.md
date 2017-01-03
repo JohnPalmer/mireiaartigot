@@ -7,5 +7,5 @@ lang: en
 
 ## Currently
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Under construction
+Under construction
 
