@@ -1,85 +1,28 @@
-
-body {
-	font: normal normal 400;
-	font-size: 80%;
-	line-height: 1.5em;
-	font-family: Verdana,sans-serif;
-	margin-top: 1em;
-	margin-left: 1em;
-}
-h1,h2,h3,h4 {
+.cv h1, .cv h2,.cv h3,.cv h4 {
 	font-weight: 400;
 	font-family: Cousine,Verdana,sans-serif;
 	width: 65%;
 }
 
-h1 {
-	text-align: left;
-	font-size: 3em;
-	line-height: 1em;
-	position: relative;
-	left: 33%;
+.cv h1 {
+	text-align: center;
 }
 
-h1+p { 
+.cv p { 
 	/*subtitle*/
 	font-style: italic;
 	font-size: 110%;
 }
 
-h2 {
+.cv h2 {
 	font-size: 1.1em;
 	color: #a00;
-	margin-top: 3em;
-	position: relative;
-	top: 1.4em;
-	text-align: right;
-	width: 20%;
 }
 
-h3 {
+.cv h3 {
 	font-size: 1em;
-	line-height: 2em; 
-	position: relative;
-	top: 1.7em;
-	text-align: right;
-	width: 20%;
 }
 
-a {
-	color: inherit;
-	/*text-decoration:none*/
-}
-
-a:hover {
-	color:#39f
-}
-
-#webaddress {
-	margin-top: 1em;
-	position: relative;
-	left: 33%;
-	color: #aaa;
-	font-family: Menlo,monospace,sans-serif;
-	font-size: 80%;
-}
-
-#webaddress a {
-	text-decoration: none;
-}
-
-em {
-	font-weight: bold;
-	font-style: italic;
-}
-
-strong {
-	font-weight: bold;
-}
-
-#address {
-	display: none;
-}
 
 
 
