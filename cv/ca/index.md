@@ -40,13 +40,13 @@ Professora Associada
 
 ## Experiència Professional
 
-ESADE Dret, Barcelona, Espanya
-Professora de la ESADE Summer School
-07/2016
+#### ESADE Dret, Barcelona, Espanya
+* Professora de la ESADE Summer School
+* 07/2016
 
-Barcelona School of Management, Barcelona, Espanya
-Professora del MScIB, Master of Science in Internternational Business
-01/09/2013 - 01/09/2015
+#### Barcelona School of Management, Barcelona, Espanya
+* Professora del MScIB, Master of Science in Internternational Business
+* 01/09/2013 - 01/09/2015
 
 Universitat Pompeu Fabra, Departament de Dret, Barcelona, Espanya
 Investigadora Juan de la Cierva
