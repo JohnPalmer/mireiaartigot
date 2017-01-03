@@ -40,48 +40,48 @@ Professora Associada
 
 ## Experiència Professional
 
-#### ESADE Dret, Barcelona, Espanya
+ESADE Dret, Barcelona, Espanya
 * Professora de la ESADE Summer School
 * 07/2016
 
-#### Barcelona School of Management, Barcelona, Espanya
+Barcelona School of Management, Barcelona, Espanya
 * Professora del MScIB, Master of Science in Internternational Business
 * 01/09/2013 - 01/09/2015
 
 Universitat Pompeu Fabra, Departament de Dret, Barcelona, Espanya
-Investigadora Juan de la Cierva
-01/01/2012 - 12/08/2015
+* Investigadora Juan de la Cierva
+* 01/01/2012 - 12/08/2015
 
 Institute für Wirtshaftrecht,Universität Kassel, Alemanya
-Professora visitant contractada
-10/2010 - 11/2013
+* Professora visitant contractada
+* 10/2010 - 11/2013
 
 Universitat Pompeu Fabra, Barcelona, Espanya
-Professora Associada
-09/2010 - 12/2011
+* Professora Associada
+* 09/2010 - 12/2011
 
 Escuela de Derecho, Universidad de Puerto Rico, San Juan de Puerto Rico, Estats Units d&#39;Amèrica
-Professora visitant contractada
-10/2010 - 10/2010
+* Professora visitant contractada
+* 10/2010 - 10/2010
 
 Universitat Pompeu Fabra, Barcelona, Espanya
-Professora Col.laboradora
-09/2007 - 06/2010
+* Professora Col.laboradora
+* 09/2007 - 06/2010
 
 Escuela de Derecho, Universidad de Puerto Rico, San Juan de Puerto Rico, Estats Units d&#39;Amèrica
-Professora visitant contractada
-01/2009 - 05/2009
+* Professora visitant contractada
+* 01/2009 - 05/2009
 
 Universitat Oberta de Catalunya, Barcelona, Espanya
-Col.laboradora Acadèmica
-09/2004 - 09/2005
+* Col.laboradora Acadèmica
+* 09/2004 - 09/2005
 
 Law Clerk del Jutge Edwin H. Stern, President del Tribunal d&#39;Apel.lació del sistema judicial de New Jersey, Morristown, Estats Units d&#39;Amèrica
-09/2004 - 09/2005
+* 09/2004 - 09/2005
 
 Cornell Law School, Law Library, Ithaca, New York
-Suport a la recerca
-01/2004 - 08/2004
+* Suport a la recerca
+* 01/2004 - 08/2004
 
 ## Publicacions
 
@@ -157,89 +157,65 @@ Fernando Gómez Pomar; Mireia Artigot Golobardes. Wie Sollte die Kosten von Unf�
 
 ## Docència
 
-[**UNIVERSITAT POMPEU FABRA**](https://www.upf.edu/) **, Barcelona**
+### [UNIVERSITAT POMPEU FABRA](https://www.upf.edu/), Barcelona
 
-### CURSOS DE DRET
+#### CURSOS DE DRET
 
 **Fundamentals of Private and Company Law,** Universitat Pompeu Fabra, Barcelona, 2016-2017, Syllabus, Slides
+* Grau en Dret, Universitat Pompeu Fabra, Barcelona
 
-Grau en Dret, Universitat Pompeu Fabra, Barcelona
-
-Introduction to Business Law (English)
-
-International Business Economics, Universitat Pompeu Fabra, Barcelona, 2015-2016, Syllabus, Slides
-
-International Business Economics, Universitat Pompeu Fabra, Barcelona, 2010-2011
-
-International Business Economics, Universitat Pompeu Fabra, Barcelona, 2009-2010
+**Introduction to Business Law (English)**
+* International Business Economics, Universitat Pompeu Fabra, Barcelona, 2015-2016, Syllabus, Slides
+* International Business Economics, Universitat Pompeu Fabra, Barcelona, 2010-2011
+* International Business Economics, Universitat Pompeu Fabra, Barcelona, 2009-2010
 
 **Introducció al Dret de l&#39;Empresa**
+* Graus en Economia i en Administració i Direcció d&#39;Empreses, Universitat Pompeu Fabra, Barcelona, 2015-2016, Syllabus
+* Graus en Economia i en Administració i Direcció d&#39;Empreses, Universitat Pompeu Fabra, Barcelona, 2009-2010
 
-Graus en Economia i en Administració i Direcció d&#39;Empreses, Universitat Pompeu Fabra, Barcelona, 2015-2016, Syllabus
+**Tort Law (Practice Sessions, English)**
+* Grau en Dret, Universitat Pompeu Fabra, Barcelona, 2016-2017, Syllabus
+* Grau en Dret, Universitat Pompeu Fabra, Barcelona, 2011-2012
 
-Graus en Economia i en Administració i Direcció d&#39;Empreses, Universitat Pompeu Fabra, Barcelona, 2009-2010
+**European Union Law and Economic Integration (English)**
+* UPF Study Abroad Program, 2011-2012, Syllabus
+* UPF Study Abroad Program, 2010-2011
 
-Tort Law (Practice Sessions, English)
+**Dret de Successions**
+* Grau en Dret, Universitat Pompeu Fabra, Barcelona, 2007-2008, Syllabus
 
-Grau en Dret, Universitat Pompeu Fabra, Barcelona, 2016-2017, Syllabus
+**Drets Reals**
+* Grau en Dret, Universitat Pompeu Fabra, Barcelona, 2006-2007, Syllabus
 
-Grau en Dret, Universitat Pompeu Fabra, Barcelona, 2011-2012
+#### CURSOS D&#39;ECONOMIA
 
-European Union Law and Economic Integration (English)
-
-        UPF Study Abroad Program, 2011-2012, Syllabus
-
- UPF Study Abroad Program, 2010-2011
-
-Dret de Successions
-
-Grau en Dret, Universitat Pompeu Fabra, Barcelona, 2007-2008, Syllabus
-
-Drets Reals
-
-Grau en Dret, Universitat Pompeu Fabra, Barcelona, 2006-2007, Syllabus
-
-
-
-1. CURSOS D&#39;ECONOMIA
-
-Introducció a la Microeconomia
-
-Doble grau en Dret i Economia/ADE, Universitat Pompeu Fabra, Barcelona 2016-2017 Syllabus, Slides
-
-Doble grau en Dret i Economia/ADE, Universitat Pompeu Fabra, Barcelona 2015-2016
-
-Graus en Economia i en Administració i Direcció d&#39;Empreses, Universitat Pompeu Fabra, Barcelona 2015-2016
-
-Doble grau en Dret i Economia/ADE  Universitat Pompeu Fabra, Barcelona 2014-2015
-
-Doble grau en Dret i Economia/ADE, Universitat Pompeu Fabra, Barcelona 2013-2014
+**Introducció a la Microeconomia**
+* Doble grau en Dret i Economia/ADE, Universitat Pompeu Fabra, Barcelona 2016-2017 Syllabus, Slides
+* Doble grau en Dret i Economia/ADE, Universitat Pompeu Fabra, Barcelona 2015-2016
+* Graus en Economia i en Administració i Direcció d&#39;Empreses, Universitat Pompeu Fabra, Barcelona 2015-2016
+* Doble grau en Dret i Economia/ADE  Universitat Pompeu Fabra, Barcelona 2014-2015
+* Doble grau en Dret i Economia/ADE, Universitat Pompeu Fabra, Barcelona 2013-2014
 
 **Introducció a la Macroeconomia**
+* Graus en Economia i en Administració i Direcció d&#39;Empreses, Universitat Pompeu Fabra, Barcelona 07-08 i 08-09
 
-Graus en Economia i en Administració i Direcció d&#39;Empreses, Universitat Pompeu Fabra, Barcelona 07-08 i 08-09
-
-
-
-1. CURSOS D&#39;ESTIU
+#### CURSOS D&#39;ESTIU
 
 **Natural Catastrophes: Prevention, risks and insurance** (English) Summer, 2011, 2012 Syllabus
 
 **Introduction to the Legal and Political System of the United States** (English), Summers 2007, 2008, 2009 Syllabus
 
-[**ESADE**](http://www.esade.edu/web/cat/)
+### [ESADE](http://www.esade.edu/web/cat/)
 
-1. LAW SCHOOL
-
-**Law and Economics** (English), 2016-2017, Syllabus
-
-1. SUMMER SCHOOL
+#### LAW SCHOOL
 
 **Law and Economics** (English), 2016-2017, Syllabus
 
+#### SUMMER SCHOOL
 
+**Law and Economics** (English), 2016-2017, Syllabus
 
-[**ESCOLA SUPERIOR DE COMERÇ INTERNACIONAL**](http://esci.upf.edu/ca/)
+### [ESCOLA SUPERIOR DE COMERÇ INTERNACIONAL](http://esci.upf.edu/ca/)
 
 **International Economics** (English),B.A. in International Business, 2016-2017, Syllabus
 
@@ -249,13 +225,11 @@ Graus en Economia i en Administració i Direcció d&#39;Empreses, Universitat Po
 
 **International Economics** (English),B.A. in International Business, 2013-2014
 
-[**BARCELONA SCHOOL OF MANAGEMENT**](http://www.barcelonaschoolofmanagement.upf.edu/ca)
+### [BARCELONA SCHOOL OF MANAGEMENT](http://www.barcelonaschoolofmanagement.upf.edu/ca)
 
 **Internacional Economics** (English), Master of Science in internacional Business, 2013-2014, 2012-2013
 
-
-
-[**UNIVERSIDAD DE PUERTO RICO, ESCUELA DE DERECHO**](http://derecho.uprrp.edu/)
+### [UNIVERSIDAD DE PUERTO RICO, ESCUELA DE DERECHO](http://derecho.uprrp.edu/)
 
 **Derecho de Contratos** , 2009-2010
 
@@ -263,18 +237,15 @@ Graus en Economia i en Administració i Direcció d&#39;Empreses, Universitat Po
 
 **Derecho de Família: instituciones y análisis económico** , 2009-2010
 
-[**UNIVERSITY OF KASSEL**](http://www.uni-kassel.de/uni/internationales/english-version/university/about-us.html)
+### [UNIVERSITY OF KASSEL](http://www.uni-kassel.de/uni/internationales/english-version/university/about-us.html)
 
 **Anglo American Law** , [Institut für Wirtschaftsrecht](http://www.uni-kassel.de/fb07/institute/iwr/home.html) (English), 2013, 2012, 2011, 2010, Syllabus
 
-[**FUNDACIÓN ORTEGA Y GASSET**](http://www.ortegaygasset.edu/)
+### [FUNDACIÓN ORTEGA Y GASSET](http://www.ortegaygasset.edu/)
 
 Participación como profesora en el curso de Responsabilidad civil del fabricante por producto defectuoso, [Máster Universitario en Análisis Económico del Derecho](http://ortegaygasset.edu/instituto-universitario/programas-de-postgrado/masteres-universitarios-oficiales), 2011
 
-1.
-# 7.Estades d&#39;Investigació a Universitats i Centres de recerca
-
-
+## Estades d&#39;Investigació a Universitats i Centres de recerca
 
 Brooklyn Law School, Nova York, Estats Units d&#39;Amèrica
 
