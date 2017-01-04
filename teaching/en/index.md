@@ -4,7 +4,7 @@ title: Teaching
 lang: en
 ---
 
-## [UNIVERSITAT POMPEU FABRA](https://www.upf.edu/en/), Barcelona
+## [UNIVERSITAT POMPEU FABRA](https://www.upf.edu/en/)
 
 ### LAW COURSES
 
