@@ -171,379 +171,303 @@ Albert Lamarca Marquès; Esther Farnós Amorós; Mireia Artigot Golobardes; Albe
 
 Fernando Gómez Pomar; Mireia Artigot Golobardes. Wie Sollte die Kosten von Unfällen am Arbeitsplatztragen? Die schwierige Koordination von Arbeiterunfallversicherung und Delikthauftung aus ökonomischer Sicht. [Ökonomische Analyse des SozialschutzPrinzips in Zivilrecht](https://www.mohr.de/buch/oekonomische-analyse-des-sozialschutzprinzips-im-zivilrecht-9783161485008). pp. 323 - 365. Mohr-Siebeck, 2005. ISBN 978-3-16-148500-8
 
+## Teaching
 
+### [UNIVERSITAT POMPEU FABRA](https://www.upf.edu/en/), Barcelona
 
-1. 6.Teaching
-
-[**UNIVERSITAT POMPEU FABRA**](https://www.upf.edu/en/) **, Barcelona**
-
-1. **1.** LAW COURSES
+#### LAW COURSES
 
 **Fundamentals of Private and Company Law,** Universitat Pompeu Fabra, Barcelona, 2016-2017, Syllabus, Slides
 
-Introduction to Business Law (English)
+**Introduction to Business Law (English)**
 
-International Business Economics, Universitat Pompeu Fabra, Barcelona, 2015-2016, Syllabus, Slides
+* International Business Economics, Universitat Pompeu Fabra, Barcelona, 2015-2016, Syllabus, Slides
+* International Business Economics, Universitat Pompeu Fabra, Barcelona, 2010-2011
+* International Business Economics, Universitat Pompeu Fabra, Barcelona, 2009-2010
 
-International Business Economics, Universitat Pompeu Fabra, Barcelona, 2010-2011
+**Introduction to Private Law**
 
-International Business Economics, Universitat Pompeu Fabra, Barcelona, 2009-2010
+* BA in Economics and Business Administration, Universitat Pompeu Fabra, Barcelona, 2015-2016, Syllabus
+* BA in Economics and Business Administration, Universitat Pompeu Fabra, Barcelona, 2009-2010
 
-Introduction to Private Law
+**Tort Law (Practice Sessions, English)**
 
-BA in Economics and Business Administration, Universitat Pompeu Fabra, Barcelona, 2015-2016, Syllabus
+* Law Degree, Universitat Pompeu Fabra, Barcelona, 2016-2017, Syllabus
+* Law Degree, Universitat Pompeu Fabra, Barcelona, 2011-2012
 
-BA in Economics and Business Administration, Universitat Pompeu Fabra, Barcelona, 2009-2010
+**European Union Law and Economic Integration (English)**
 
-Tort Law (Practice Sessions, English)
+* UPF Study Abroad Program, 2011-2012, Syllabus
+* UPF Study Abroad Program, 2010-2011
 
-Law Degree, Universitat Pompeu Fabra, Barcelona, 2016-2017, Syllabus
+**Succession Law**
 
-Law Degree, Universitat Pompeu Fabra, Barcelona, 2011-2012
+* Law Degree, Universitat Pompeu Fabra, Barcelona, 2007-2008, Syllabus
 
-European Union Law and Economic Integration (English)
+**Property Law**
 
-        UPF Study Abroad Program, 2011-2012, Syllabus
+* Law Degree, Universitat Pompeu Fabra, Barcelona, 2006-2007, Syllabus
 
- UPF Study Abroad Program, 2010-2011
+#### ECONOMICS COURSES
 
-Succession Law
+**Introduction to Microeconomics**
 
-Law Degree, Universitat Pompeu Fabra, Barcelona, 2007-2008, Syllabus
+* Joint Degree in Law and BA in Economics, Universitat Pompeu Fabra, Barcelona 2016-2017 Syllabus, Slides
+* Joint Degree in Law and BA in Economics, Universitat Pompeu Fabra, Barcelona 2015-2016
+* BA in Economics and Business Administration, Universitat Pompeu Fabra, Barcelona 2015-2016
+* Joint Degree in Law and BA in Economics, Universitat Pompeu Fabra, Barcelona 2014-2015
+* Joint Degree in Law and BA in Economics, Universitat Pompeu Fabra, Barcelona 2013-2014
 
-Property Law
+**Introduction to Macroeconomics**
 
-Law Degree, Universitat Pompeu Fabra, Barcelona, 2006-2007, Syllabus
+* BA in Economics and Business Administration, Universitat Pompeu Fabra, Barcelona 2007-2008
+* BA in Economics and Business Administration, Universitat Pompeu Fabra, Barcelona 2008-2009
 
-1. **2.**** ECONOMICS COURSES**
-
-Introduction to Microeconomics
-
-Joint Degree in Law and BA in Economics, Universitat Pompeu Fabra, Barcelona 2016-2017 Syllabus, Slides
-
-Joint Degree in Law and BA in Economics, Universitat Pompeu Fabra, Barcelona 2015-2016
-
-BA in Economics and Business Administration, Universitat Pompeu Fabra, Barcelona 2015-2016
-
-Joint Degree in Law and BA in Economics, Universitat Pompeu Fabra, Barcelona 2014-2015
-
-Joint Degree in Law and BA in Economics, Universitat Pompeu Fabra, Barcelona 2013-2014
-
-Introduction to Macroeconomics
-
-BA in Economics and Business Administration, Universitat Pompeu Fabra, Barcelona 2007-2008
-
-BA in Economics and Business Administration, Universitat Pompeu Fabra, Barcelona 2008-2009
-
-1. **3.** SUMMER COURSES
+#### SUMMER COURSES
 
 **Natural Catastrophes: Prevention, risks and insurance** (English) Summer, 2011, 2012 Syllabus
 
 **Introduction to the Legal and Political System of the United States** (English), Summers 2007, 2008, 2009 Syllabus
 
-[**ESADE**](http://www.esade.edu/web/eng)
+### [ESADE](http://www.esade.edu/web/eng)
 
-1. LAW SCHOOL
-
-**Law and Economics** (English), 2016-2017, Syllabus
-
-1. SUMMER SCHOOL
+#### LAW SCHOOL
 
 **Law and Economics** (English), 2016-2017, Syllabus
 
-[**ESCOLA SUPERIOR DE COMERÇ INTERNACIONAL**](http://www.esci.upf.edu/en)
+#### SUMMER SCHOOL
+
+**Law and Economics** (English), 2016-2017, Syllabus
+
+### [ESCOLA SUPERIOR DE COMERÇ INTERNACIONAL](http://www.esci.upf.edu/en)
 
 **International Economics** (English),B.A. in International Business, Since 2013-2014  Syllabus
 
-[**BARCELONA SCHOOL OF MANAGEMENT**](http://www.barcelonaschoolofmanagement.upf.edu/en)
+### [BARCELONA SCHOOL OF MANAGEMENT](http://www.barcelonaschoolofmanagement.upf.edu/en)
 
 **Internacional Economics** (English), Master of Science in internacional Business, 2013-2014, 2012-2013
 
-[**UNIVERSIDAD DE PUERTO RICO, ESCUELA DE DERECHO**](http://derecho.uprrp.edu/)
+### [UNIVERSIDAD DE PUERTO RICO, ESCUELA DE DERECHO](http://derecho.uprrp.edu/)
 
-**Derecho de Contratos** , 2009-2010
+**Derecho de Contratos**, 2009-2010
 
-**Catástrofes Naturales** ,2010-2011
+**Catástrofes Naturales**,2010-2011
 
-**Derecho de Família: instituciones y análisis económico** , 2009-2010
+**Derecho de Família: instituciones y análisis económico**, 2009-2010
 
-[**UNIVERSITY OF KASSEL**](http://www.uni-kassel.de/uni/internationales/english-version/university/about-us.html)
+### [UNIVERSITY OF KASSEL](http://www.uni-kassel.de/uni/internationales/english-version/university/about-us.html)
 
 **Anglo American Law** , [Institut für Wirtschaftsrecht](http://www.uni-kassel.de/fb07/institute/iwr/home.html) (English), 2013, 2012, 2011, 2010, Syllabus
 
-[**FUNDACIÓN ORTEGA Y GASSET**](http://www.ortegaygasset.edu/)
+### [FUNDACIÓN ORTEGA Y GASSET](http://www.ortegaygasset.edu/)
 
 Participación como profesora en el curso de Responsabilidad civil del fabricante por producto defectuoso, [Máster Universitario en Análisis Económico del Derecho](http://ortegaygasset.edu/instituto-universitario/programas-de-postgrado/masteres-universitarios-oficiales), 2011
 
-
-
-1. 7.Research stays in Universities and R&amp;D centres
+## Research stays in Universities and R&amp;D centres
 
 Brooklyn Law School, New York, United States of America
 
-Visiting Scholar and Guest Lecturer
-
-09/2012 - 12/2012
+* Visiting Scholar and Guest Lecturer
+* 09/2012 - 12/2012
 
 University of Trento, Trento Italy
 
-Visiting Professor
-
-07/2012
-
-Escuela de Derecho Universidad de Puerto Rico, San Juan Puerto Rico, United States of America
-
-Visiting Professor
-
-10/2010 - 11/2010
+* Visiting Professor
+* 07/2012
 
 Escuela de Derecho Universidad de Puerto Rico, San Juan Puerto Rico, United States of America
 
-Visiting Professor
+* Visiting Professor
+* 10/2010 - 11/2010
 
-01/2009 - 05/2009
+Escuela de Derecho Universidad de Puerto Rico, San Juan Puerto Rico, United States of America
+
+* Visiting Professor
+* 01/2009 - 05/2009
 
 University of Montenegro, Law School and Department of Economics, Podgorica, Montenegro
 
-Visiting researcher and lecturer
-
-05/2007 - 06/2007
+* Visiting researcher and lecturer
+* 05/2007 - 06/2007
 
 Law and Economics Institute, Hamburg University, Germany
 
-Researcher
-
-03/2001 - 08/2001
+* Researcher
+* 03/2001 - 08/2001
 
 Center for South African Studies, University of Western Cape, Cape Town, South African Republic
 
-Researcher
+* Researcher
+* 06/1999 - 10/1999
 
-06/1999 - 10/1999
+## Conferences, Workshops and Faculty Seminars
 
+### 2016
 
+* German Law and Economics Association, Budapest, Hungary, July 2016
+* Spanish Law and Economics Association, Lisbon, Portugal, June 2016
+* Universitat Pompeu Fabra Law School Faculty Seminar, Barcelona, April 2016
+* Fundación de las Cajas de Ahorros Confederadas (FUNCAS), Madrid, April 2016
+* World Intedisciplinary Network for Institutional Research, Property Rights, Bristol, United Kingdom, April 2016
 
-1. 8.Conferences, Workshops and Faculty Seminars
+### 2014
 
-2016
+* University of Valencia, Guest lecture &quot;Economic analysis of the law and its role on the analysis of Information, market regulationand rationality,&quot; December 2014
+* European Law and Economics Association, Annual Conference, Aix en Province, France, September 2014
+* European Union Law in the member states, Air Passenger Rights, 10 years on, College of Europe, Bruges, Belgium, September 2014
+* Society of Legal Scholars, University of Nottingham, United Kingdom, September 2014
+* Universidad de Málaga, Spanish Law and Economics Association, Málaga, Spain, June 2014
+* Universidad Francisco Marroquín, Guatemala, Conferencia Anual de la Asociación Latino Americana de Análisis Económico del Derecho (ALACDE), May 2014
+* Universitat Pompeu Fabra, Civil Department Law Faculty Seminar Series, May 2014
+* European Land Registry Association Conference, The growing importance of cross-border transactions in the European Union: Challengesand Potential Benefits of the European Certificate of Succession, May 2014
 
-- .German Law and Economics Association, Budapest, Hungary, July 2016
-- .Spanish Law and Economics Association, Lisbon, Portugal, June 2016
-- .Universitat Pompeu Fabra Law School Faculty Seminar, Barcelona, April 2016
-- .Fundación de las Cajas de Ahorros Confederadas (FUNCAS), Madrid, April 2016
-- .World Intedisciplinary Network for Institutional Research, Property Rights, Bristol, United Kingdom, April 2016
+### 2013
 
-**2014**
+* European Law and Economics Association, Annual Conference, Warsaw, Poland, September 2013
+* Universidad de Granada, Spanish Law and Economics Association, Granada, Spain, June 2013
 
-- .University of Valencia, Guest lecture &quot;Economic analysis of the law and its role on the analysis of Information, market regulationand rationality,&quot; December 2014
-- .European Law and Economics Association, Annual Conference, Aix en Province, France, September 2014
-- .European Union Law in the member states, Air Passenger Rights, 10 years on, College of Europe, Bruges, Belgium, September 2014
-- .Society of Legal Scholars, University of Nottingham, United Kingdom, September 2014
-- .Universidad de Málaga, Spanish Law and Economics Association, Málaga, Spain, June 2014
-- .Universidad Francisco Marroquín, Guatemala, Conferencia Anual de la Asociación Latino Americana de Análisis Económico del Derecho (ALACDE), May 2014
-- .Universitat Pompeu Fabra, Civil Department Law Faculty Seminar Series, May 2014
-- .European Land Registry Association Conference, The growing importance of cross-border transactions in the European Union: Challengesand Potential Benefits of the European Certificate of Succession, May 2014
+### 2012
 
-2013
+* Rutgers Law School Faculty Seminar Series, Avoiding Waste In European Product Regulation: The Nexus Of Ex Ante Safety and ExPost Liability, November 2012
+* Brooklyn Law School Guest Lecture &quot;Current economic challenges of the European Union: solidarity, fiscal union or split?&quot;, October 2012
+* Universitat de València, Spanish Law and Economics Association, Valencia, Spain, June 2012
+* Universidad de San Martín de Porres, Perú, Conferencia Anual de la Asociación Latino Americana de Análisis Económico del Derecho (ALACDE), May 2012
+* Polish Law and Economics Association, Warsaw, Poland, April 2012
 
-- .European Law and Economics Association, Annual Conference, Warsaw, Poland, September 2013
-- .Universidad de Granada, Spanish Law and Economics Association, Granada, Spain, June 2013
+### 2011
 
-2012
+* Universitat Pompeu Fabra, Spanish Law and Economics Association, Barcelona, Spain, June 2011
+* Law and Society Association, San Francisco, United Status of America, June 2011
 
-- .Rutgers Law School Faculty Seminar Series, Avoiding Waste In European Product Regulation: The Nexus Of Ex Ante Safety and ExPost Liability, November 2012
-- .Brooklyn Law School Guest Lecture &quot;Current economic challenges of the European Union: solidarity, fiscal union or split?&quot;, October 2012
-- .Universitat de València, Spanish Law and Economics Association, Valencia, Spain, June 2012
-- .Universidad de San Martín de Porres, Perú, Conferencia Anual de la Asociación Latino Americana de Análisis Económico del Derecho (ALACDE), May 2012
-- .Polish Law and Economics Association, Warsaw, Poland, April 2012
+### 2010
 
-2011
+* Workshop in Law and Economics, Harvard Law School, The Application of European Consumer Protection Regulation in Spain: A Unified System or an Aggregate of Independent Instruments?, October 2010
+* European Law and Economics Association, Annual Conference, Hamburg, Germany, September 2010
+* Universidad Autónoma de Madrid, Spanish Law and Economics Association, Madrid, Spain, June 2010
+* Universitat Pompeu Fabra, Civil Law School Faculty Seminar Series, May 2010
 
-- .Universitat Pompeu Fabra, Spanish Law and Economics Association, Barcelona, Spain, June 2011
-- .Law and Society Association, San Francisco, United Status of America, June 2011
+### 2009
 
-2010
+* Guest Speaker, Puerto Rico Judicial School, Civil Law Judges, March 2009
 
-- .Workshop in Law and Economics, Harvard Law School, The Application of European Consumer Protection Regulation in Spain: A Unified System or an Aggregate of Independent Instruments?, October 2010
+### 2008
 
-- .European Law and Economics Association, Annual Conference, Hamburg, Germany, September 2010
-- .Universidad Autónoma de Madrid, Spanish Law and Economics Association, Madrid, Spain, June 2010
-- .Universitat Pompeu Fabra, Civil Law School Faculty Seminar Series, May 2010
+* Internacional Society of Family Law, Viena, Austria, September 2008
 
-2009
+### 2001
 
-- .Guest Speaker, Puerto Rico Judicial School, Civil Law Judges, March 2009
+* Capital Markets Globalization, London School of Economics and Political Sciences (LSE) Seminar, February 2001
 
-2008
+### 2000
 
-- .Internacional Society of Family Law, Viena, Austria, September 2008
+* Political and Economic Consequences of Globalization in the European Union, London School of Economics and Political Sciences (LSE) Seminar, February 2000
 
-2001
-
-- .Capital Markets Globalization, London School of Economics and Political Sciences (LSE) Seminar, February 2001
-
-2000
-
-- .Political and Economic Consequences of Globalization in the European Union, London School of Economics and Political Sciences (LSE) Seminar, February 2000
-
-
-
-1.
-# 9.Participation in competitive research projects  / Participació a projectes de recerca competitius / Participación en proyectos de investigaciónn competitivos
+## Participation in competitive research projects  / Participació a projectes de recerca competitius / Participación en proyectos de investigaciónn competitivos
 
 **Name of the project:** Ajuts de Suport als Grups de Recerca de Catalunya (Grup de recerca en Dret patrimonial) 2014 SGR 478
 
-**Entity where the project takes place:** Pompeu FabraUniversity        **Type of entity:** University
-
-**City of the entity:** Barcelona, Catalonia, Spain
-
-**Principal researcher:** Fernando Gómez Pomar
-
-**Researchers:** 32
-
-**Funding entity:** Generalitat de Catalunya
-
-**Start-end date:** 01/2014 - 12/2016
-
-**Total amount:** 51.000
+* **Entity where the project takes place:** Pompeu FabraUniversity       
+* **Type of entity:** University
+* **City of the entity:** Barcelona, Catalonia, Spain
+* **Principal researcher:** Fernando Gómez Pomar
+* **Researchers:** 32
+* **Funding entity:** Generalitat de Catalunya
+* **Start-end date:** 01/2014 - 12/2016
+* **Total amount:** 51.000
 
 **Name of the project:** Análisis de los remedios (&quot;remedies&quot;) en derecho patrimonial y de la persona DER2013-47560 R
 
-**Entity where the project takes place:** Pompeu FabraUniversity        **Type of entity:** University
-
-**City of the entity:** Barcelona, Catalonia, Spain
-
-**Principal researcher:** Carlos Gómez Ligüerre
-
-**Researchers:** 19
-
-**Funding entity:** MINISTERIO DE EDUCACION Y CIENCIA
-
-**Start-end date:** 01/2014 - 12/2016
-
-**Total amount:** 81.070
+* **Entity where the project takes place:** Pompeu FabraUniversity        
+* **Type of entity:** University
+* **City of the entity:** Barcelona, Catalonia, Spain
+* **Principal researcher:** Carlos Gómez Ligüerre
+* **Researchers:** 19
+* **Funding entity:** MINISTERIO DE EDUCACION Y CIENCIA
+* **Start-end date:** 01/2014 - 12/2016
+* **Total amount:** 81.070
 
 **Name of the project:** Reforma del derecho de familia y análisis unitario de su régimen patrimonial. Atribución de derechos de propiedad, pretensiones compensatorias y atención de necesidades a su disolución por crisis y por causa de muerte DER2011-27960
 
-**Entity where the project takes place:** Pompeu FabraUniversity        **Type of entity:** University
-
-**City of the entity:** Barcelona, Catalonia, Spain
-
-**Principal researcher:** Josep Ferrer Riba
-
-**Researchers:** 20
-
-**Funding entity:** MINISTERIO DE EDUCACION Y CIENCIA
-
-**Start-end date:** 01/2012 - 12/2014
-
-**Total amount:**  72.600
+* **Entity where the project takes place:** Pompeu FabraUniversity        
+* **Type of entity:** University
+* **City of the entity:** Barcelona, Catalonia, Spain
+* **Principal researcher:** Josep Ferrer Riba
+* **Researchers:** 20
+* **Funding entity:** MINISTERIO DE EDUCACION Y CIENCIA
+* **Start-end date:** 01/2012 - 12/2014
+* **Total amount:**  72.600
 
 **Name of the project:** Análisis de los remedios (&quot;remedies&quot;) en derecho privado español según la teoría general de la aplicación del derecho (&quot;law enforcement theory&quot;) DER2010-15624
 
-**Entity where the project takes place:** Pompeu FabraUniversity        **Type of entity:** University
-
-**City of the entity:** Barcelona, Catalonia, Spain
-
-**Principal researcher:** Pablo Salvador Coderch
-
-**Researchers:** 21
-
-**Funding entity:** MINISTERIO DE EDUCACION Y CIENCIA
-
-**Start-end date:** 01/2011 - 12/2013
-
-**Total amount:** 108.900
+* **Entity where the project takes place:** Pompeu FabraUniversity        
+* **Type of entity:** University
+* **City of the entity:** Barcelona, Catalonia, Spain
+* **Principal researcher:** Pablo Salvador Coderch
+* **Researchers:** 21
+* **Funding entity:** MINISTERIO DE EDUCACION Y CIENCIA
+* **Start-end date:** 01/2011 - 12/2013
+* **Total amount:** 108.900
 
 **Name of the project:** El derecho de filiación ante los conflictos entre identidad biológica y parentalidad social DER2008-01809/JURI
 
-**Entity where the project takes place:** Pompeu FabraUniversity        **Type of entity:** University
-
-**City of the entity:** Barcelona, Catalonia, Spain
-
-**Principal researcher:**  Joan Egea Fernández
-
-**Researchers:** 20
-
-**Funding entity:** MINISTERIO DE EDUCACION Y CIENCIA
-
-**Start-end date:** 01/2009 - 06/2012
-
-**Total amount:** 73.000
+* **Entity where the project takes place:** Pompeu FabraUniversity        
+* **Type of entity:** University
+* **City of the entity:** Barcelona, Catalonia, Spain
+* **Principal researcher:**  Joan Egea Fernández
+* **Researchers:** 20
+* **Funding entity:** MINISTERIO DE EDUCACION Y CIENCIA
+* **Start-end date:** 01/2009 - 06/2012
+* **Total amount:** 73.000
 
 **Name of the project:** Seguridad de productos: la interacción entre regulación y responsabilidad SEJ 2007-60503
-
-**Entity where the project takes place:** Pompeu FabraUniversity        **Type of entity:** University
-
-**City of the entity:** Barcelona, Catalonia, Spain
-
-**Principal researcher:** Pablo Salvador Coderch
-
-**Researchers:** 18
-
-**Funding entity:** MINISTERIO DE EDUCACION Y CIENCIA
-
-**Start-end date:** 10/2007 - 10/2010
-
-**Total amount:** 109.400
+* **Entity where the project takes place:** Pompeu FabraUniversity        
+* **Type of entity:** University
+* **City of the entity:** Barcelona, Catalonia, Spain
+* **Principal researcher:** Pablo Salvador Coderch
+* **Researchers:** 18
+* **Funding entity:** MINISTERIO DE EDUCACION Y CIENCIA
+* **Start-end date:** 10/2007 - 10/2010
+* **Total amount:** 109.400
 
 **Name of the project:** La responsabilidad civil como mecanismo de eficacia del Derecho: teoría general y aplicación a los accidentes sanitario-farmacéuticos y a los accidentes de trabajo SEJ 2004-05059
 
-**Entity where the project takes place:** Pompeu FabraUniversity        **Type of entity:** University
-
-**City of the entity:** Barcelona, Catalonia, Spain
-
-**Principal researcher:** Pablo Salvador Coderch
-
-**Researchers:**  23
-
-**Funding entity:** MINISTERIO DE EDUCACION Y CIENCIA
-
-**Start-end date:** 12/2004 - 12/2007
-
-**Total amount:** 86.000
+* **Entity where the project takes place:** Pompeu FabraUniversity        
+* **Type of entity:** University
+* **City of the entity:** Barcelona, Catalonia, Spain
+* **Principal researcher:** Pablo Salvador Coderch
+* **Researchers:**  23
+* **Funding entity:** MINISTERIO DE EDUCACION Y CIENCIA
+* **Start-end date:** 12/2004 - 12/2007
+* **Total amount:** 86.000
 
 **Name of the project:** Autonomia privada familiar i capítols matrimonials en el Dret Civil de Catalunya
 
-**Entity where the project takes place:** Pompeu FabraUniversity        **Type of entity:** University
-
-**City of the entity:** Barcelona, Catalonia, Spain
-
-**Researchers:** 2
-
-**Funding entity:** Centre d&#39;Estudis Jurídics i Formacó Especialitzada - Dept .Justícia. Ajut econòmic per a la realització de projectes de recerca, estudis i anàlisis de l&#39;execució penal, la mediació penal
-
-**City of Funding entity:** Barcelona, Catalonia, Spain
-
-**Principal researcher:** Mireia Artigot Golobardes and Albert Lamarca Marquès
-
-**Start-end date:** 11/2004
-
-**Total amount:** 3.000
+* **Entity where the project takes place:** Pompeu FabraUniversity        
+* **Type of entity:** University
+* **City of the entity:** Barcelona, Catalonia, Spain
+* **Researchers:** 2
+* **Funding entity:** Centre d&#39;Estudis Jurídics i Formacó Especialitzada - Dept .Justícia. Ajut econòmic per a la realització de projectes de recerca, estudis i anàlisis de l&#39;execució penal, la mediació penal
+* **City of Funding entity:** Barcelona, Catalonia, Spain
+* **Principal researcher:** Mireia Artigot Golobardes and Albert Lamarca Marquès
+* **Start-end date:** 11/2004
+* **Total amount:** 3.000
 
 **Name of the project:** Judicial Cooperation in Family Law, Pompeu Fabra University (Law School), JAI /2003 / FP C / 035
+* **Entity where the project takes place:** Pompeu FabraUniversity        
+* **Type of entity:** University
+* **City of the entity:** Barcelona, Catalonia, Spain
+* **Researchers:** 8
+* **Funding entity:** European Commission. Directorate - General Justice and Home Affairs
+* **City of Funding entity:** Brussels, Bélgica
+* **Start-end date:** 01/10/2003 - 31/12/2004
 
-**Entity where the project takes place:** Pompeu FabraUniversity        **Type of entity:** University
+## Supervised Thesis and Final Degree Research Projects
 
-**City of the entity:** Barcelona, Catalonia, Spain
-
-**Researchers:** 8
-
-**Funding entity:** European Commission. Directorate - General Justice and Home Affairs
-
-**City of Funding entity:** Brussels, Bélgica
-
-**Start-end date:** 01/10/2003 - 31/12/2004
-
-
-
-1. 10.Supervised Thesis and Final Degree Research Projects
-
-1. Master Thesis
+### Master Thesis
 
 Eva Ulbrich, A movement towards de harmonisation in the area of genetically modified organisms?, University College of Dublin Type of entity: University, Date of reading: 31/05/2015
 
-1. Final Degree Research Projects
+### Final Degree Research Projects
 
 Viktoriya Rumenova Royashka, Anàlisi De Com Ha Afectat La Crisi Econòmica A La Població Treballadora En La Última Dècada A Tremp, Universitat Pompeu Fabra, B.A. in Labor Relations, Date of reading: 06/2016
 
@@ -565,36 +489,32 @@ Leonardo Javier Castillo Cárdenas, La denominación de origen en el mercado del
 
 Marcos Ernesto Pérez Talia, Responsabilidad Civil Extracontractual en Paraguay: un enfoque económico, Fundación Ortega y Gasset, Máster Universitario en Análisis Económico del Derecho, Date of reading: 2007
 
-1.
-# 11.Scholarships and awards received
+## Scholarships and awards received
 
-- .Juan de la Cierva Fellowship, Ministerio Ciencia e Innovación, 2011-2015
+Juan de la Cierva Fellowship, Ministerio Ciencia e Innovación, 2011-2015
 
-- .Robert D. Cooter Award on Law and Economics Scholarhip for the paper &quot;Macroeconomic Dimensions of the Proposed European Regulation on Cross-Border Successsion&quot;, Robert D. Cooter, professor of Law and Economics at Berkeley University, 05/2012
+Robert D. Cooter Award on Law and Economics Scholarhip for the paper &quot;Macroeconomic Dimensions of the Proposed European Regulation on Cross-Border Successsion&quot;, Robert D. Cooter, professor of Law and Economics at Berkeley University, 05/2012
 
-- .Rafael del Pino Fellowship for participating in the Harvard Law and Economics Workshop, Madrid, Spain, 2010
+Rafael del Pino Fellowship for participating in the Harvard Law and Economics Workshop, Madrid, Spain, 2010
 
-- .Microsoft Award for the article &quot;Economic Considerations in marital dissolutions in light of the new family realities&quot;, Microsoft Foundation, Berkeley, San Francisco, United States of America, 05/2009
+Microsoft Award for the article &quot;Economic Considerations in marital dissolutions in light of the new family realities&quot;, Microsoft Foundation, Berkeley, San Francisco, United States of America, 05/2009
 
-- .Beca per a la recerca, estudis i anàlisis en els àmbits de l&#39;execució penal, la mediació penal, l&#39;atenció a la víctima, l&#39;Administració de justícia i el dret civil català, Centre d&#39;Estudis Jurídics i de Formació Especialitzada, Barcelona, Catalonia, Spain, 2008
+Beca per a la recerca, estudis i anàlisis en els àmbits de l&#39;execució penal, la mediació penal, l&#39;atenció a la víctima, l&#39;Administració de justícia i el dret civil català, Centre d&#39;Estudis Jurídics i de Formació Especialitzada, Barcelona, Catalonia, Spain, 2008
 
-- .Teaching Award, Honors for the best Syllabus for Introduction to MacroeconomicsAwarding entity: Department of Economics, Universitat Pompeu Fabra, Barcelona, Catalonia, Spain, 09/2008
+Teaching Award, Honors for the best Syllabus for Introduction to MacroeconomicsAwarding entity: Department of Economics, Universitat Pompeu Fabra, Barcelona, Catalonia, Spain, 09/2008
 
-- .Beca per a la recerca, estudis i anàlisis en els àmbits de l&#39;execució penal, la mediació penal, l&#39;atenció a la víctima, l&#39;Administració de justícia i el dret civil català, Centre d&#39;Estudis Jurídics i de Formació Especialitzada, Barcelona, Catalonia, Spain, 2007
+Beca per a la recerca, estudis i anàlisis en els àmbits de l&#39;execució penal, la mediació penal, l&#39;atenció a la víctima, l&#39;Administració de justícia i el dret civil català, Centre d&#39;Estudis Jurídics i de Formació Especialitzada, Barcelona, Catalonia, Spain, 2007
 
-- .Cornell Law School Summer Research Award, Ithaca, New York, United States of America, 05/2004
+Cornell Law School Summer Research Award, Ithaca, New York, United States of America, 05/2004
 
-- .Cornell Law School Resarch Assistanship (professor Winnie Taylor), Ithaca, New York, United States of America (2004)
+Cornell Law School Resarch Assistanship (professor Winnie Taylor), Ithaca, New York, United States of America (2004)
 
-- .Cornell Law School JSD Scholarhip, Cornell Law School, Ithaca, New York, United States of America (2003-2004)
+Cornell Law School JSD Scholarhip, Cornell Law School, Ithaca, New York, United States of America (2003-2004)
 
-- .Cajamadrid Fellowship for Graduate Studies in the United Status, Cajamadrid Foundation, 2001,  Duration: 2 years
+Cajamadrid Fellowship for Graduate Studies in the United Status, Cajamadrid Foundation, 2001,  Duration: 2 years
 
-- .Marie Skłodowska-Curie Fellowship, European Commission for Research Innovation and Science, Law and Economics Institute, Hamburg University, March- August 2001
+Marie Skłodowska-Curie Fellowship, European Commission for Research Innovation and Science, Law and Economics Institute, Hamburg University, March- August 2001
 
-- .Cajamadrid Fellowship for participating in the seminar &quot;Capital Markets Globalization&quot; organized by the London School of Economics and Political Science, Madrid, Spain (01/2001)
+Cajamadrid Fellowship for participating in the seminar &quot;Capital Markets Globalization&quot; organized by the London School of Economics and Political Science, Madrid, Spain (01/2001)
 
-- .Cajamadrid Fellowship for participating in the seminar &quot;Political and Economic Consequences of Globalization in the European Union&quot;, organized by the London School of Economics and Political Science, Madrid, Spain (01/2000)
-
-
-
+Cajamadrid Fellowship for participating in the seminar &quot;Political and Economic Consequences of Globalization in the European Union&quot;, organized by the London School of Economics and Political Science, Madrid, Spain (01/2000)
