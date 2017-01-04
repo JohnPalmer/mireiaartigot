@@ -420,6 +420,7 @@ Center for South African Studies, University of Western Cape, Cape Town, South A
 * **Total amount:** 73.000
 
 **Name of the project:** Seguridad de productos: la interacción entre regulación y responsabilidad SEJ 2007-60503
+
 * **Entity where the project takes place:** Pompeu FabraUniversity        
 * **Type of entity:** University
 * **City of the entity:** Barcelona, Catalonia, Spain
