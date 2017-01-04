@@ -43,45 +43,56 @@ Professora Associada
 ## Experiència Professional
 
 ESADE Dret, Barcelona, Espanya
+
 * Professora de la ESADE Summer School
 * 07/2016
 
 Barcelona School of Management, Barcelona, Espanya
+
 * Professora del MScIB, Master of Science in Internternational Business
 * 01/09/2013 - 01/09/2015
 
 Universitat Pompeu Fabra, Departament de Dret, Barcelona, Espanya
+
 * Investigadora Juan de la Cierva
 * 01/01/2012 - 12/08/2015
 
 Institute für Wirtshaftrecht,Universität Kassel, Alemanya
+
 * Professora visitant contractada
 * 10/2010 - 11/2013
 
 Universitat Pompeu Fabra, Barcelona, Espanya
+
 * Professora Associada
 * 09/2010 - 12/2011
 
 Escuela de Derecho, Universidad de Puerto Rico, San Juan de Puerto Rico, Estats Units d&#39;Amèrica
+
 * Professora visitant contractada
 * 10/2010 - 10/2010
 
 Universitat Pompeu Fabra, Barcelona, Espanya
+
 * Professora Col.laboradora
 * 09/2007 - 06/2010
 
 Escuela de Derecho, Universidad de Puerto Rico, San Juan de Puerto Rico, Estats Units d&#39;Amèrica
+
 * Professora visitant contractada
 * 01/2009 - 05/2009
 
 Universitat Oberta de Catalunya, Barcelona, Espanya
+
 * Col.laboradora Acadèmica
 * 09/2004 - 09/2005
 
 Law Clerk del Jutge Edwin H. Stern, President del Tribunal d&#39;Apel.lació del sistema judicial de New Jersey, Morristown, Estats Units d&#39;Amèrica
+
 * 09/2004 - 09/2005
 
 Cornell Law School, Law Library, Ithaca, New York
+
 * Suport a la recerca
 * 01/2004 - 08/2004
 
@@ -135,11 +146,7 @@ Fernando Gómez Pomar; Mireia Artigot Golobardes. Intrinsic and Extrinsic Motiva
 
 Mireia Artigot Golobardes, Comentari Articles 235-51 and 235-52. [Comentari Al Llibre Segon Del Codi Civil De Catalunya, Família i relacions convivencials d&#39;ajuda mútua](http://www.atelierlibros.es/libros/comentari-al-llibre-segon-del-codi-civil-de-catalunya-familia-i-relacions-convivencials-dajuda-mu/9788415690474/). pp. 781 - 789. Atelier, 2014. ISBN 978-8-4156-9047-4
 
-Fernando Gómez Pomar; Mireia Artigot Golobardes. Dissecting Long-Term Contracts: a Law
-
-and Economics Approach.The Organizational Contract. From Exchange to Long-Term Network
-
-Cooperation in European Contract Law.pp. 41 - 77. Ashgate, 2013. At [Scopus](https://www.scopus.com/record/display.uri?eid=2-s2.0-84900940700&amp;origin=resultslist&amp;sort=plf-f&amp;src=s&amp;sid=D164EB9AB7FDF57650E3FAA37EA158B7.FZg2ODcJC9ArCe8WOZPvA%3A110&amp;sot=autdocs&amp;sdt=autdocs&amp;sl=18&amp;s=AU-ID%2855824572900%29&amp;relpos=0&amp;citeCnt=0&amp;searchTerm), ISBN 978-147242124-1
+Fernando Gómez Pomar; Mireia Artigot Golobardes. Dissecting Long-Term Contracts: a Law and Economics Approach.The Organizational Contract. From Exchange to Long-Term Network Cooperation in European Contract Law.pp. 41 - 77. Ashgate, 2013. At [Scopus](https://www.scopus.com/record/display.uri?eid=2-s2.0-84900940700&amp;origin=resultslist&amp;sort=plf-f&amp;src=s&amp;sid=D164EB9AB7FDF57650E3FAA37EA158B7.FZg2ODcJC9ArCe8WOZPvA%3A110&amp;sot=autdocs&amp;sdt=autdocs&amp;sl=18&amp;s=AU-ID%2855824572900%29&amp;relpos=0&amp;citeCnt=0&amp;searchTerm), ISBN 978-147242124-1
 
 Mireia Artigot Golobardes; Fernando Gómez Pomar. Long-term Contracts in the Law and Economics Literature. Contract Law and Economics. pp. 314 - 359. Edward Elgar Pub; 2nd edition, 2011. At [Scopus](https://www.scopus.com/record/display.uri?eid=2-s2.0-84881844518&amp;origin=resultslist&amp;sort=plf-f&amp;src=s&amp;sid=D164EB9AB7FDF57650E3FAA37EA158B7.FZg2ODcJC9ArCe8WOZPvA%3A110&amp;sot=autdocs&amp;sdt=autdocs&amp;sl=18&amp;s=AU-ID%2855824572900%29&amp;relpos=1&amp;citeCnt=0&amp;searchTerm=), ISBN 978-1-8472-0600-8
 
@@ -174,26 +181,32 @@ Fernando Gómez Pomar; Mireia Artigot Golobardes. Wie Sollte die Kosten von Unf�
 * International Business Economics, Universitat Pompeu Fabra, Barcelona, 2009-2010
 
 **Introducció al Dret de l&#39;Empresa**
+
 * Graus en Economia i en Administració i Direcció d&#39;Empreses, Universitat Pompeu Fabra, Barcelona, 2015-2016, Syllabus
 * Graus en Economia i en Administració i Direcció d&#39;Empreses, Universitat Pompeu Fabra, Barcelona, 2009-2010
 
 **Tort Law (Practice Sessions, English)**
+
 * Grau en Dret, Universitat Pompeu Fabra, Barcelona, 2016-2017, Syllabus
 * Grau en Dret, Universitat Pompeu Fabra, Barcelona, 2011-2012
 
 **European Union Law and Economic Integration (English)**
+
 * UPF Study Abroad Program, 2011-2012, Syllabus
 * UPF Study Abroad Program, 2010-2011
 
 **Dret de Successions**
+
 * Grau en Dret, Universitat Pompeu Fabra, Barcelona, 2007-2008, Syllabus
 
 **Drets Reals**
+
 * Grau en Dret, Universitat Pompeu Fabra, Barcelona, 2006-2007, Syllabus
 
 #### CURSOS D&#39;ECONOMIA
 
 **Introducció a la Microeconomia**
+
 * Doble grau en Dret i Economia/ADE, Universitat Pompeu Fabra, Barcelona 2016-2017 Syllabus, Slides
 * Doble grau en Dret i Economia/ADE, Universitat Pompeu Fabra, Barcelona 2015-2016
 * Graus en Economia i en Administració i Direcció d&#39;Empreses, Universitat Pompeu Fabra, Barcelona 2015-2016
@@ -201,6 +214,7 @@ Fernando Gómez Pomar; Mireia Artigot Golobardes. Wie Sollte die Kosten von Unf�
 * Doble grau en Dret i Economia/ADE, Universitat Pompeu Fabra, Barcelona 2013-2014
 
 **Introducció a la Macroeconomia**
+
 * Graus en Economia i en Administració i Direcció d&#39;Empreses, Universitat Pompeu Fabra, Barcelona 07-08 i 08-09
 
 #### CURSOS D&#39;ESTIU
