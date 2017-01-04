@@ -1,5 +1,6 @@
 ---
 layout: cv
+title: CV
 lang: ca
 ---
 
