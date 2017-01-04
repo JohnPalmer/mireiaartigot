@@ -1,13 +1,13 @@
-.cv h1, .cv h2,.cv h3,.cv h4, .cv h5, .cv h6 {
+.cv h1, .cv h2,.cv h3,.cv h4, .cv h5 {
 	font-weight: 400;
 	font-family: Cousine,Verdana,sans-serif;
 }
 
-.cv h1, .cv h6 {
+.cv h1, .cv h5 {
 	text-align: center;
 }
 
-.cv h6 {
+.cv h5 {
 	font-style: italic;
 }	
 
@@ -22,7 +22,7 @@
 	margin-left: -30px;
 }
 
-.cv h3, .cv h4, .cv h5 {
+.cv h3, .cv h4 {
 	font-size: 1em;
 }
 
