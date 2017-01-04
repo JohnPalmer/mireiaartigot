@@ -453,6 +453,7 @@ Center for South African Studies, University of Western Cape, Cape Town, South A
 * **Total amount:** 3.000
 
 **Name of the project:** Judicial Cooperation in Family Law, Pompeu Fabra University (Law School), JAI /2003 / FP C / 035
+
 * **Entity where the project takes place:** Pompeu FabraUniversity        
 * **Type of entity:** University
 * **City of the entity:** Barcelona, Catalonia, Spain
