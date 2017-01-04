@@ -4,6 +4,7 @@ lang: en
 ---
 
 # Mireia Artigot i Golobardes
+
 ##### Curriculum Vitae
 
 ## Formació Acadèmica
