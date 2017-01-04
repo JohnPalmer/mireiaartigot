@@ -16,7 +16,7 @@ Dissertation: Beyond Product Liability: Its mixed nature and performance
 
 [Cornell Law School](http://www.lawschool.cornell.edu/), **Masters in Laws (LLM)**, 2002
 
-[Universitat Pompeu Fabra](https://www.upf.edu/fdret/en/) (Barcelona), **Degree in Law**** (LLB)**, 2001
+[Universitat Pompeu Fabra](https://www.upf.edu/fdret/en/) (Barcelona), **Degree in Law (LLB)**, 2001
 
 [Universitat Pompeu Fabra](http://www.econ.upf.edu/en/) (Barcelona),   **B.A. in Economics and Business Administration** , 1997
 
