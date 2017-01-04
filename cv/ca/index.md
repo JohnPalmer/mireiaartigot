@@ -4,6 +4,7 @@ lang: en
 ---
 
 # Mireia Artigot i Golobardes
+###### Curriculum Vitae
 
 ## Formació Acadèmica
 
@@ -248,285 +249,194 @@ Participación como profesora en el curso de Responsabilidad civil del fabricant
 ## Estades d&#39;Investigació a Universitats i Centres de recerca
 
 Brooklyn Law School, Nova York, Estats Units d&#39;Amèrica
-
-Investigadora i Professora Convidada
-
-09/2012 - 12/2012
+* Investigadora i Professora Convidada
+* 09/2012 - 12/2012
 
 University of Trento, Trento, Itàlia
-
-Professora Convidada
-
-07/2012
+* Professora Convidada
+* 07/2012
 
 Escuela de Derecho Universidad de Puerto Rico, San Juan Puerto Rico, Estats Units d&#39;Amèrica
-
-Professora Convidada
-
-10/2010 - 11/2010
+* Professora Convidada
+* 10/2010 - 11/2010
 
 Escuela de Derecho Universidad de Puerto Rico, San Juan Puerto Rico, Estats Units d&#39;Amèrica
-
-Professora Convidada
-
-01/2009 - 05/2009
+* Professora Convidada
+* 01/2009 - 05/2009
 
 University of Montenegro, Law School and Department of Economics, Podgorica, Montenegro
-
-Investigadora i Professora Convidada
-
-05/2007 - 06/2007
+* Investigadora i Professora Convidada
+* 05/2007 - 06/2007
 
 Law and Economics Institute, Universitat d&#39;Hamburg, Alemanya
-
-Investigadora
-
-03/2001 - 08/2001
+* Investigadora
+* 03/2001 - 08/2001
 
 Center for South African Studies, University of Western Cape, Ciutat del Cap, Sud Àfrica
+* Investigadora
+* 06/1999 - 10/1999
 
-Investigadora
+## Conferències, Workshops i Ponències a Seminaris
 
-06/1999 - 10/1999
+### 2016
+* German Law and Economics Association, Budapest, Hungary, July 2016
+* Spanish Law and Economics Association, Lisbon, Portugal, June 2016
+* Universitat Pompeu Fabra Law School Faculty Seminar, Barcelona, April 2016
+* Fundación de las Cajas de Ahorros Confederadas (FUNCAS), Madrid, April 2016
+* World Intedisciplinary Network for Institutional Research, Property Rights, Bristol, United Kingdom, April 2016
 
-1.
-# 8.Conferències, Workshops i Ponències a Seminaris
+### 2014
+* University of Valencia, Guest lecture &quot;Economic analysis of the law and its role on the analysis of Information, market regulationand rationality,&quot; December 2014
+* European Law and Economics Association, Annual Conference, Aix en Province, France, September 2014
+* European Union Law in the member states, Air Passenger Rights, 10 years on, College of Europe, Bruges, Belgium, September 2014
+* Society of Legal Scholars, University of Nottingham, United Kingdom, September 2014
+* Universidad de Málaga, Spanish Law and Economics Association, Málaga, Spain, June 2014
+* Universidad Francisco Marroquín, Guatemala, Conferencia Anual de la Asociación Latino Americana de Análisis Económico del Derecho (ALACDE), May 2014
+* Universitat Pompeu Fabra, Civil Department Law Faculty Seminar Series, May 2014
+* European Land Registry Association Conference, The growing importance of cross-border transactions in the European Union: Challengesand Potential Benefits of the European Certificate of Succession, May 2014
 
-2016
+### 2013
+* European Law and Economics Association, Annual Conference, Warsaw, Poland, September 2013
+* Universidad de Granada, Spanish Law and Economics Association, Granada, Spain, June 2013
 
-- .German Law and Economics Association, Budapest, Hungary, July 2016
-- .Spanish Law and Economics Association, Lisbon, Portugal, June 2016
-- .Universitat Pompeu Fabra Law School Faculty Seminar, Barcelona, April 2016
-- .Fundación de las Cajas de Ahorros Confederadas (FUNCAS), Madrid, April 2016
-- .World Intedisciplinary Network for Institutional Research, Property Rights, Bristol, United Kingdom, April 2016
+### 2012
+* Rutgers Law School Faculty Seminar Series, Avoiding Waste In European Product Regulation: The Nexus Of Ex Ante Safety and ExPost Liability, November 2012
+* Brooklyn Law School Guest Lecture &quot;Current economic challenges of the European Union: solidarity, fiscal union or split?&quot;, October 2012
+* Universitat de València, Spanish Law and Economics Association, Valencia, Spain, June 2012
+* Universidad de San Martín de Porres, Perú, Conferencia Anual de la Asociación Latino Americana de Análisis Económico del Derecho (ALACDE), May 2012
+* Polish Law and Economics Association, Warsaw, Poland, April 2012
 
-**2014**
+### 2011
+* Universitat Pompeu Fabra, Spanish Law and Economics Association, Barcelona, Spain, June 2011
+* Law and Society Association, San Francisco, United Status of America, June 2011
 
-- .University of Valencia, Guest lecture &quot;Economic analysis of the law and its role on the analysis of Information, market regulationand rationality,&quot; December 2014
-- .European Law and Economics Association, Annual Conference, Aix en Province, France, September 2014
-- .European Union Law in the member states, Air Passenger Rights, 10 years on, College of Europe, Bruges, Belgium, September 2014
-- .Society of Legal Scholars, University of Nottingham, United Kingdom, September 2014
-- .Universidad de Málaga, Spanish Law and Economics Association, Málaga, Spain, June 2014
-- .Universidad Francisco Marroquín, Guatemala, Conferencia Anual de la Asociación Latino Americana de Análisis Económico del Derecho (ALACDE), May 2014
-- .Universitat Pompeu Fabra, Civil Department Law Faculty Seminar Series, May 2014
-- .European Land Registry Association Conference, The growing importance of cross-border transactions in the European Union: Challengesand Potential Benefits of the European Certificate of Succession, May 2014
+### 2010
+* Workshop in Law and Economics, Harvard Law School, The Application of European Consumer Protection Regulation in Spain: A Unified System or an Aggregate of Independent Instruments?, October 2010
+* European Law and Economics Association, Annual Conference, Hamburg, Germany, September 2010
+* Universidad Autónoma de Madrid, Spanish Law and Economics Association, Madrid, Spain, June 2010
+* Universitat Pompeu Fabra, Civil Law School Faculty Seminar Series, May 2010
 
-2013
+### 2009
+* Guest Speaker, Puerto Rico Judicial School, Civil Law Judges, March 2009
 
-- .European Law and Economics Association, Annual Conference, Warsaw, Poland, September 2013
-- .Universidad de Granada, Spanish Law and Economics Association, Granada, Spain, June 2013
+### 2008
+* Internacional Society of Family Law, Viena, Austria, September 2008
 
-2012
+### 2001
+* Capital Markets Globalization, London School of Economics and Political Sciences (LSE) Seminar, February 2001
 
-- .Rutgers Law School Faculty Seminar Series, Avoiding Waste In European Product Regulation: The Nexus Of Ex Ante Safety and ExPost Liability, November 2012
-- .Brooklyn Law School Guest Lecture &quot;Current economic challenges of the European Union: solidarity, fiscal union or split?&quot;, October 2012
-- .Universitat de València, Spanish Law and Economics Association, Valencia, Spain, June 2012
-- .Universidad de San Martín de Porres, Perú, Conferencia Anual de la Asociación Latino Americana de Análisis Económico del Derecho (ALACDE), May 2012
-- .Polish Law and Economics Association, Warsaw, Poland, April 2012
+### 2000
+* Political and Economic Consequences of Globalization in the European Union, London School of Economics and Political Sciences (LSE) Seminar, February 2000
 
-2011
-
-- .Universitat Pompeu Fabra, Spanish Law and Economics Association, Barcelona, Spain, June 2011
-- .Law and Society Association, San Francisco, United Status of America, June 2011
-
-2010
-
-- .Workshop in Law and Economics, Harvard Law School, The Application of European Consumer Protection Regulation in Spain: A Unified System or an Aggregate of Independent Instruments?, October 2010
-
-- .European Law and Economics Association, Annual Conference, Hamburg, Germany, September 2010
-- .Universidad Autónoma de Madrid, Spanish Law and Economics Association, Madrid, Spain, June 2010
-- .Universitat Pompeu Fabra, Civil Law School Faculty Seminar Series, May 2010
-
-2009
-
-- .Guest Speaker, Puerto Rico Judicial School, Civil Law Judges, March 2009
-
-2008
-
-- .Internacional Society of Family Law, Viena, Austria, September 2008
-
-2001
-
-- .Capital Markets Globalization, London School of Economics and Political Sciences (LSE) Seminar, February 2001
-
-2000
-
-- .Political and Economic Consequences of Globalization in the European Union, London School of Economics and Political Sciences (LSE) Seminar, February 2000
-
-
-
-1.
-# 9.Participació a projectes de recerca competitius
+## Participació a projectes de recerca competitius
 
 **Títol del projecte:** Ajuts de Suport als Grups de Recerca de Catalunya (Grup de recerca en Dret patrimonial) 2014 SGR 478
-
-**Entitat on es realitza:** Universitat Pompeu Fabra         **Tipus d&#39;entitat** : Universitat
-
-**Ciutat on es realitza:** Barcelona, Catalunya, Espanya
-
-**Núm. d&#39;investigadors/es:** 32
-
-**Investigador/a principal:** Fernando Gómez Pomar
-
-**Entitat/s finançadora/es:** Generalitat de Catalunya
-
-**Dada d&#39;inici-fi:** 01/2014 - 12/2016
-
-**Import concedit:** 51.000
+* **Entitat on es realitza:** Universitat Pompeu Fabra         
+* **Tipus d&#39;entitat** : Universitat
+* **Ciutat on es realitza:** Barcelona, Catalunya, Espanya
+* **Núm. d&#39;investigadors/es:** 32
+* **Investigador/a principal:** Fernando Gómez Pomar
+* **Entitat/s finançadora/es:** Generalitat de Catalunya
+* **Dada d&#39;inici-fi:** 01/2014 - 12/2016
+* **Import concedit:** 51.000
 
 **Títol del projecte:** Análisis de los remedios (&quot;remedies&quot;) en derecho patrimonial y de la persona DER2013-47560 R
-
-**Entitat on es realitza:** Universitat Pompeu Fabra         **Tipus d&#39;entitat** : Universitat
-
-**Ciutat on es realitza:** Barcelona, Catalunya, Espanya
-
-**Investigador principal:** Carlos Gómez Ligüerre
-
-**Núm. d&#39;investigadors/es:** 19
-
-**Entitat/s finançadora/es:** MINISTERIO DE EDUCACION Y CIENCIA
-
-**Dada d&#39;inici-fi:** 01/2014 - 12/2016
-
-**Import concedit:** 81.070
+* **Entitat on es realitza:** Universitat Pompeu Fabra         
+* **Tipus d&#39;entitat** : Universitat
+* **Ciutat on es realitza:** Barcelona, Catalunya, Espanya
+* **Investigador principal:** Carlos Gómez Ligüerre
+* **Núm. d&#39;investigadors/es:** 19
+* **Entitat/s finançadora/es:** MINISTERIO DE EDUCACION Y CIENCIA
+* **Dada d&#39;inici-fi:** 01/2014 - 12/2016
+* **Import concedit:** 81.070
 
 **Títol del projecte:** Reforma del derecho de familia y análisis unitario de su régimen patrimonial. Atribución de derechos de propiedad, pretensiones compensatorias y atención de necesidades a su disolución por crisis y por causa de muerte DER2011-27960
-
-**Entitat on es realitza:** Universitat Pompeu Fabra        **Tipus d&#39;entitat** : Universitat
-
-**Ciutat on es realitza:** Barcelona, Catalunya, Espanya
-
-**Investigador/a principal:** Josep Ferrer Riba
-
-**Núm. d&#39;investigadors/es:** 20
-
-**Entitat/s finançadora/es:** MINISTERIO DE EDUCACION Y CIENCIA
-
-**Dada d&#39;inici-fi:** 01/2012 - 12/2014
-
-**Import concedit:** 72.600
+* **Entitat on es realitza:** Universitat Pompeu Fabra        
+* **Tipus d&#39;entitat** : Universitat
+* **Ciutat on es realitza:** Barcelona, Catalunya, Espanya
+* **Investigador/a principal:** Josep Ferrer Riba
+* **Núm. d&#39;investigadors/es:** 20
+* **Entitat/s finançadora/es:** MINISTERIO DE EDUCACION Y CIENCIA
+* **Dada d&#39;inici-fi:** 01/2012 - 12/2014
+* **Import concedit:** 72.600
 
 **Títol del projecte:** Análisis de los remedios (&quot;remedies&quot;) en derecho privado español según la teoría general de la aplicación del derecho (&quot;law enforcement theory&quot;) DER2010-15624
-
-**Entitat on es realitza:** Universitat Pompeu Fabra         **Tipus d&#39;entitat** : Universitat
-
-**Ciutat on es realitza:** Barcelona, Catalunya, Espanya
-
-**Investigador/a principal:** Pablo Salvador Coderch
-
-**Núm. d&#39;investigadors/es:** 21
-
-**Entitat/s finançadora/es:** MINISTERIO DE EDUCACION Y CIENCIA
-
-**Dada d&#39;inici-fi:** 01/2011 - 12/2013
-
-**Import concedit:** 108.900
+* **Entitat on es realitza:** Universitat Pompeu Fabra         
+* **Tipus d&#39;entitat** : Universitat
+* **Ciutat on es realitza:** Barcelona, Catalunya, Espanya
+* **Investigador/a principal:** Pablo Salvador Coderch
+* **Núm. d&#39;investigadors/es:** 21
+* **Entitat/s finançadora/es:** MINISTERIO DE EDUCACION Y CIENCIA
+* **Dada d&#39;inici-fi:** 01/2011 - 12/2013
+* **Import concedit:** 108.900
 
 **Títol del projecte:** El derecho de filiación ante los conflictos entre identidad biológica y parentalidad social DER2008-01809/JURI
-
-**Entitat on es realitza:** Universitat Pompeu Fabra        **Tipus d&#39;entitat** : Universitat
-
-**Ciutat on es realitza:** Barcelona, Catalunya, Espanya
-
-**Investigador/a principal:** Joan Egea Fernández
-
-**Núm. d&#39;investigadors/es:** 20
-
-**Entitat/s finançadora/es:** MINISTERIO DE EDUCACION Y CIENCIA
-
-**Dada d&#39;inici-fi:** 01/2009 - 06/2012
-
-**Import concedit:** 73.000
+* **Entitat on es realitza:** Universitat Pompeu Fabra        
+* **Tipus d&#39;entitat** : Universitat
+* **Ciutat on es realitza:** Barcelona, Catalunya, Espanya
+* **Investigador/a principal:** Joan Egea Fernández
+* **Núm. d&#39;investigadors/es:** 20
+* **Entitat/s finançadora/es:** MINISTERIO DE EDUCACION Y CIENCIA
+* **Dada d&#39;inici-fi:** 01/2009 - 06/2012
+* **Import concedit:** 73.000
 
 **Títol del projecte:** Ajuts de Suport als Grups de Recerca de Catalunya (Grup de Recerca consolidat en Dret Patrimonial) 2009, SGR 1535
-
-**Entitat on es realitza:** Universitat Pompeu Fabra        **Tipus d&#39;entitat:** Universitat
-
-**Ciutat on es realitza:** Barcelona, Catalunya, Espanya
-
-**Investigador/a principal:** Joan Egea Fernández
-
-**Entitat/s finançadora/es:** MINISTERIO DE EDUCACION Y CIENCIA
-
-**Dada d&#39;inici-fi:** 01/2009 – 12/2013
-
-**Import concedit:** 44.000
+* **Entitat on es realitza:** Universitat Pompeu Fabra        
+* **Tipus d&#39;entitat:** Universitat
+* **Ciutat on es realitza:** Barcelona, Catalunya, Espanya
+* **Investigador/a principal:** Joan Egea Fernández
+* **Entitat/s finançadora/es:** MINISTERIO DE EDUCACION Y CIENCIA
+* **Dada d&#39;inici-fi:** 01/2009 – 12/2013
+* **Import concedit:** 44.000
 
 **Títol del projecte:** Seguridad de productos: la interacción entre regulación y responsabilidad SEJ 2007-60503
-
-**Entitat on es realitza:** Universitat Pompeu Fabra         **Tipus d&#39;entitat** :  Universitat
-
-**Ciutat on es realitza:** Barcelona, Catalunya, Espanya
-
-**Investigador/a principal:** Pablo Salvador Coderch
-
-**Núm. d&#39;investigadors/es:** 18
-
-**Entitat/s finançadora/es:** MINISTERIO DE EDUCACION Y CIENCIA
-
-**Dada d&#39;inici-fi:** 10/2007 - 10/2010
-
-**Import concedit:** 109.400
+* **Entitat on es realitza:** Universitat Pompeu Fabra         
+* **Tipus d&#39;entitat** :  Universitat
+* **Ciutat on es realitza:** Barcelona, Catalunya, Espanya
+* **Investigador/a principal:** Pablo Salvador Coderch
+* **Núm. d&#39;investigadors/es:** 18
+* **Entitat/s finançadora/es:** MINISTERIO DE EDUCACION Y CIENCIA
+* **Dada d&#39;inici-fi:** 10/2007 - 10/2010
+* **Import concedit:** 109.400
 
 **Títol del projecte:** La responsabilidad civil como mecanismo de eficacia del Derecho: teoría general y aplicación a los accidentes sanitario-farmacéuticos y a los accidentes de trabajo SEJ 2004-05059
-
-**Entitat on es realitza:** Universitat Pompeu Fabra         **Tipus d&#39;entitat** : Universitat
-
-**Ciutat on es realitza:** Barcelona, Catalunya, Espanya
-
-**Investigador/a principal:** Pablo Salvador Coderch
-
-**Núm. d&#39;investigadors/es:** 23
-
-**Entitat/s finançadora/es:** MINISTERIO DE EDUCACION Y CIENCIA
-
-**Ciudad entidad financiadora:** España
-
-**Dada d&#39;inici-fi:** 12/2004 - 12/2007
-
-**Import concedit:** 86.000
+* **Entitat on es realitza:** Universitat Pompeu Fabra         
+* **Tipus d&#39;entitat** : Universitat
+* **Ciutat on es realitza:** Barcelona, Catalunya, Espanya
+* **Investigador/a principal:** Pablo Salvador Coderch
+* **Núm. d&#39;investigadors/es:** 23
+* **Entitat/s finançadora/es:** MINISTERIO DE EDUCACION Y CIENCIA
+* **Ciudad entidad financiadora:** España
+* **Dada d&#39;inici-fi:** 12/2004 - 12/2007
+* **Import concedit:** 86.000
 
 **Títol del projecte:** Autonomia privada familiar i capítols matrimonials en el Dret Civil de Catalunya
-
-**Entitat on es realitza:** Pompeu FabraUniversity        **Tipus d&#39;entitat:** University
-
-**Ciutat on es realitza:** Barcelona, Catalonia, Spain
-
-**Investigador/a principal:** Mireia Artigot Golobardes i Albert Lamarca Marquès
-
-**Núm. d&#39;investigadors/es:** 2
-
-**Entitat/s finançadora/es:** Centre d&#39;Estudis Jurídics i Formacó Especialitzada - Dept .Justícia. Ajut econòmic per a la realització de projectes de recerca, estudis i anàlisis de l&#39;execució penal, la mediació penal
-
-**Ciudad entidad financiadora:** Barcelona, Catalonia, Spain
-
-**Dada d&#39;inici-fi:** 11/2004
-
-**Import concedit** 3.000
+* **Entitat on es realitza:** Pompeu FabraUniversity        
+* **Tipus d&#39;entitat:** University
+* **Ciutat on es realitza:** Barcelona, Catalonia, Spain
+* **Investigador/a principal:** Mireia Artigot Golobardes i Albert Lamarca Marquès
+* **Núm. d&#39;investigadors/es:** 2
+* **Entitat/s finançadora/es:** Centre d&#39;Estudis Jurídics i Formacó Especialitzada - Dept .Justícia. Ajut econòmic per a la realització de projectes de recerca, estudis i anàlisis de l&#39;execució penal, la mediació penal
+* **Ciudad entidad financiadora:** Barcelona, Catalonia, Spain
+* **Dada d&#39;inici-fi:** 11/2004
+* **Import concedit** 3.000
 
 **Títol del projecte:** Judicial Cooperation in Family Law, Pompeu Fabra University (Law School), JAI /2003 / FP C / 035
+* **Entitat on es realitza:** Universitat Pompeu Fabra         
+* **Tipus d&#39;entitat** : Universitat
+* **Ciutat on es realitza:** Barcelona, Catalunya, Espanya
+* **Núm. d&#39;investigadors/es:** 8
+* **Entitat/s finançadora/es:** European Commission. Directorate - General Justice and Home Affairs
+* **Ciudad entidad financiadora:** Brussels, Bélgica
+* **Dada d&#39;inici-fi:** 01/10/2003 - 31/12/2004
 
-**Entitat on es realitza:** Universitat Pompeu Fabra         **Tipus d&#39;entitat** : Universitat
+## Tesis i Treballs de Recerca de fi de grau supervisats
 
-**Ciutat on es realitza:** Barcelona, Catalunya, Espanya
-
-**Núm. d&#39;investigadors/es:** 8
-
-**Entitat/s finançadora/es:** European Commission. Directorate - General Justice and Home Affairs
-
-**Ciudad entidad financiadora:** Brussels, Bélgica
-
-**Dada d&#39;inici-fi:** 01/10/2003 - 31/12/2004
-
-
-
-1. 10.Tesis i Treballs de Recerca de fi de grau supervisats
-
-1. Tesis de Màstes
+### Tesis de Màstes
 
 Eva Ulbrich, A movement towards de harmonisation in the area of genetically modified organisms?, University College of Dublin Type of entity: University, Date of reading: 31/05/2015
 
-1. Treballs de Fi de Grau
+### Treballs de Fi de Grau
 
 Viktoriya Rumenova Royashka, Anàlisi De Com Ha Afectat La Crisi Econòmica A La Població Treballadora En La Última Dècada A Tremp, Universitat Pompeu Fabra, B.A. in Labor Relations, Date of reading: 06/2016
 
@@ -548,36 +458,32 @@ Leonardo Javier Castillo Cárdenas, La denominación de origen en el mercado del
 
 Marcos Ernesto Pérez Talia, Responsabilidad Civil Extracontractual en Paraguay: un enfoque económico, Fundación Ortega y Gasset, Máster Universitario en Análisis Económico del Derecho, Date of reading: 2007
 
+## Beques i Premis
 
+Juan de la Cierva Fellowship, Ministerio Ciencia e Innovación, 2011-2015
 
-1. 11.Beques i Premis
+Robert D. Cooter Award on Law and Economics Scholarhip for the paper &quot;Macroeconomic Dimensions of the Proposed European Regulation on Cross-Border Successsion&quot;, Robert D. Cooter, professor of Law and Economics at Berkeley University, 05/2012
 
-- .Juan de la Cierva Fellowship, Ministerio Ciencia e Innovación, 2011-2015
+Rafael del Pino Fellowship for participating in the Harvard Law and Economics Workshop, Madrid, Spain, 2010
 
-- .Robert D. Cooter Award on Law and Economics Scholarhip for the paper &quot;Macroeconomic Dimensions of the Proposed European Regulation on Cross-Border Successsion&quot;, Robert D. Cooter, professor of Law and Economics at Berkeley University, 05/2012
+Microsoft Award for the article &quot;Economic Considerations in marital dissolutions in light of the new family realities&quot;, Microsoft Foundation, Berkeley, San Francisco, United States of America, 05/2009
 
-- .Rafael del Pino Fellowship for participating in the Harvard Law and Economics Workshop, Madrid, Spain, 2010
+Beca per a la recerca, estudis i anàlisis en els àmbits de l&#39;execució penal, la mediació penal, l&#39;atenció a la víctima, l&#39;Administració de justícia i el dret civil català, Centre d&#39;Estudis Jurídics i de Formació Especialitzada, Barcelona, Catalonia, Spain, 2008
 
-- .Microsoft Award for the article &quot;Economic Considerations in marital dissolutions in light of the new family realities&quot;, Microsoft Foundation, Berkeley, San Francisco, United States of America, 05/2009
+Teaching Award, Honors for the best Syllabus for Introduction to MacroeconomicsAwarding entity: Department of Economics, Universitat Pompeu Fabra, Barcelona, Catalonia, Spain, 09/2008
 
-- .Beca per a la recerca, estudis i anàlisis en els àmbits de l&#39;execució penal, la mediació penal, l&#39;atenció a la víctima, l&#39;Administració de justícia i el dret civil català, Centre d&#39;Estudis Jurídics i de Formació Especialitzada, Barcelona, Catalonia, Spain, 2008
+Beca per a la recerca, estudis i anàlisis en els àmbits de l&#39;execució penal, la mediació penal, l&#39;atenció a la víctima, l&#39;Administració de justícia i el dret civil català, Centre d&#39;Estudis Jurídics i de Formació Especialitzada, Barcelona, Catalonia, Spain, 2007
 
-- .Teaching Award, Honors for the best Syllabus for Introduction to MacroeconomicsAwarding entity: Department of Economics, Universitat Pompeu Fabra, Barcelona, Catalonia, Spain, 09/2008
+Cornell Law School Summer Research Award, Ithaca, New York, United States of America, 05/2004
 
-- .Beca per a la recerca, estudis i anàlisis en els àmbits de l&#39;execució penal, la mediació penal, l&#39;atenció a la víctima, l&#39;Administració de justícia i el dret civil català, Centre d&#39;Estudis Jurídics i de Formació Especialitzada, Barcelona, Catalonia, Spain, 2007
+Cornell Law School Resarch Assistanship (professor Winnie Taylor), Ithaca, New York, United States of America (2004)
 
-- .Cornell Law School Summer Research Award, Ithaca, New York, United States of America, 05/2004
+Cornell Law School JSD Scholarhip, Cornell Law School, Ithaca, New York, United States of America (2003-2004)
 
-- .Cornell Law School Resarch Assistanship (professor Winnie Taylor), Ithaca, New York, United States of America (2004)
+Cajamadrid Fellowship for Graduate Studies in the United Status, Cajamadrid Foundation, 2001,  Duration: 2 years
 
-- .Cornell Law School JSD Scholarhip, Cornell Law School, Ithaca, New York, United States of America (2003-2004)
+Marie Skłodowska-Curie Fellowship, European Commission for Research Innovation and Science, Law and Economics Institute, Hamburg University, March- August 2001
 
-- .Cajamadrid Fellowship for Graduate Studies in the United Status, Cajamadrid Foundation, 2001,  Duration: 2 years
+Cajamadrid Fellowship for participating in the seminar &quot;Capital Markets Globalization&quot; organized by the London School of Economics and Political Science, Madrid, Spain (01/2001)
 
-- .Marie Skłodowska-Curie Fellowship, European Commission for Research Innovation and Science, Law and Economics Institute, Hamburg University, March- August 2001
-
-- .Cajamadrid Fellowship for participating in the seminar &quot;Capital Markets Globalization&quot; organized by the London School of Economics and Political Science, Madrid, Spain (01/2001)
-
-- .Cajamadrid Fellowship for participating in the seminar &quot;Political and Economic Consequences of Globalization in the European Union&quot;, organized by the London School of Economics and Political Science, Madrid, Spain (01/2000)
-
-
+Cajamadrid Fellowship for participating in the seminar &quot;Political and Economic Consequences of Globalization in the European Union&quot;, organized by the London School of Economics and Political Science, Madrid, Spain (01/2000)
