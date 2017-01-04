@@ -10,7 +10,8 @@ lang: ca
 ## Formació Acadèmica
 
 [Cornell Law School](http://www.lawschool.cornell.edu/), **Juris Science Doctor (J.S.D.)**, 2011
-Tesi Doctoral: Beyond Product Liability: Its mixed nature and performance
+
+* Tesi Doctoral: Beyond Product Liability: Its mixed nature and performance
 
 [Cornell Law School](http://www.lawschool.cornell.edu/), **Màster en Dret, (LLM)**, 2002
 
