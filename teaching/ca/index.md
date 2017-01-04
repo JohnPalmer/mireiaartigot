@@ -4,7 +4,7 @@ title: Teaching
 lang: ca
 ---
 
-## [UNIVERSITAT POMPEU FABRA](https://www.upf.edu/), Barcelona
+## [UNIVERSITAT POMPEU FABRA](https://www.upf.edu/)
 
 ### CURSOS DE DRET
 
