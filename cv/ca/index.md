@@ -1,6 +1,6 @@
 ---
 layout: cv
-lang: en
+lang: ca
 ---
 
 # Mireia Artigot i Golobardes
