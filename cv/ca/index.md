@@ -4,7 +4,7 @@ lang: en
 ---
 
 # Mireia Artigot i Golobardes
-###### Curriculum Vitae
+##### Curriculum Vitae
 
 ## Formació Acadèmica
 
@@ -331,7 +331,7 @@ Center for South African Studies, University of Western Cape, Ciutat del Cap, Su
 ## Participació a projectes de recerca competitius
 
 **Títol del projecte:** Ajuts de Suport als Grups de Recerca de Catalunya (Grup de recerca en Dret patrimonial) 2014 SGR 478
-* **Entitat on es realitza:** Universitat Pompeu Fabra         
+* __Entitat on es realitza:__ Universitat Pompeu Fabra         
 * **Tipus d&#39;entitat** : Universitat
 * **Ciutat on es realitza:** Barcelona, Catalunya, Espanya
 * **Núm. d&#39;investigadors/es:** 32
