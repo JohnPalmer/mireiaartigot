@@ -80,16 +80,19 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 t:
   en:
     home:  "HOME"
+    cv: "CV"
     research: "RESEARCH"
     teaching: "TEACHING"
     random: "RANDOM"
   ca:
     home:  "HOME"
+    cv: "CV"
     research: "RECERCA"
     teaching: "DOCÈNCIA"
     random: "PIZZICATTOS"
   es:
     home:  "HOME"
+    cv: "CV"
     research: "INVESTIGACIÓN"
     teaching: "DOCENCIA"
     random: "PIZZICATTOS"
