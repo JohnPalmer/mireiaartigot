@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: reseach
+title: Research
 lang: ca
 ---
 
