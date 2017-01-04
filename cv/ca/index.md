@@ -164,9 +164,11 @@ Fernando Gómez Pomar; Mireia Artigot Golobardes. Wie Sollte die Kosten von Unf�
 #### CURSOS DE DRET
 
 **Fundamentals of Private and Company Law,** Universitat Pompeu Fabra, Barcelona, 2016-2017, Syllabus, Slides
+
 * Grau en Dret, Universitat Pompeu Fabra, Barcelona
 
 **Introduction to Business Law (English)**
+
 * International Business Economics, Universitat Pompeu Fabra, Barcelona, 2015-2016, Syllabus, Slides
 * International Business Economics, Universitat Pompeu Fabra, Barcelona, 2010-2011
 * International Business Economics, Universitat Pompeu Fabra, Barcelona, 2009-2010
@@ -333,8 +335,8 @@ Center for South African Studies, University of Western Cape, Ciutat del Cap, Su
 
 **Títol del projecte:** Ajuts de Suport als Grups de Recerca de Catalunya (Grup de recerca en Dret patrimonial) 2014 SGR 478
 * __Entitat on es realitza:__ Universitat Pompeu Fabra         
-* **Tipus d&#39;entitat** : Universitat
-* **Ciutat on es realitza:** Barcelona, Catalunya, Espanya
+* __Tipus d&#39;entitat__ : Universitat
+* __Ciutat on es realitza:__ Barcelona, Catalunya, Espanya
 * **Núm. d&#39;investigadors/es:** 32
 * **Investigador/a principal:** Fernando Gómez Pomar
 * **Entitat/s finançadora/es:** Generalitat de Catalunya
