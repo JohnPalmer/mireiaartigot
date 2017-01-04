@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: CV
-lang: en
+lang: es
 ---
 
 Under construction
