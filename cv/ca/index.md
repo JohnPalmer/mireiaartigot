@@ -266,30 +266,37 @@ Participación como profesora en el curso de Responsabilidad civil del fabricant
 ## Estades d&#39;Investigació a Universitats i Centres de recerca
 
 Brooklyn Law School, Nova York, Estats Units d&#39;Amèrica
+
 * Investigadora i Professora Convidada
 * 09/2012 - 12/2012
 
 University of Trento, Trento, Itàlia
+
 * Professora Convidada
 * 07/2012
 
 Escuela de Derecho Universidad de Puerto Rico, San Juan Puerto Rico, Estats Units d&#39;Amèrica
+
 * Professora Convidada
 * 10/2010 - 11/2010
 
 Escuela de Derecho Universidad de Puerto Rico, San Juan Puerto Rico, Estats Units d&#39;Amèrica
+
 * Professora Convidada
 * 01/2009 - 05/2009
 
 University of Montenegro, Law School and Department of Economics, Podgorica, Montenegro
+
 * Investigadora i Professora Convidada
 * 05/2007 - 06/2007
 
 Law and Economics Institute, Universitat d&#39;Hamburg, Alemanya
+
 * Investigadora
 * 03/2001 - 08/2001
 
 Center for South African Studies, University of Western Cape, Ciutat del Cap, Sud Àfrica
+
 * Investigadora
 * 06/1999 - 10/1999
 
@@ -348,16 +355,18 @@ Center for South African Studies, University of Western Cape, Ciutat del Cap, Su
 ## Participació a projectes de recerca competitius
 
 **Títol del projecte:** Ajuts de Suport als Grups de Recerca de Catalunya (Grup de recerca en Dret patrimonial) 2014 SGR 478
+
 * __Entitat on es realitza:__ Universitat Pompeu Fabra         
 * __Tipus d&#39;entitat__ : Universitat
 * __Ciutat on es realitza:__ Barcelona, Catalunya, Espanya
-* **Núm. d&#39;investigadors/es:** 32
-* **Investigador/a principal:** Fernando Gómez Pomar
-* **Entitat/s finançadora/es:** Generalitat de Catalunya
-* **Dada d&#39;inici-fi:** 01/2014 - 12/2016
-* **Import concedit:** 51.000
+* __Núm. d&#39;investigadors/es:__ 32
+* __Investigador/a principal:__ Fernando Gómez Pomar
+* __Entitat/s finançadora/es:__ Generalitat de Catalunya
+* __Dada d&#39;inici-fi:__ 01/2014 - 12/2016
+* __Import concedit:__ 51.000
 
 **Títol del projecte:** Análisis de los remedios (&quot;remedies&quot;) en derecho patrimonial y de la persona DER2013-47560 R
+
 * **Entitat on es realitza:** Universitat Pompeu Fabra         
 * **Tipus d&#39;entitat** : Universitat
 * **Ciutat on es realitza:** Barcelona, Catalunya, Espanya
@@ -368,6 +377,7 @@ Center for South African Studies, University of Western Cape, Ciutat del Cap, Su
 * **Import concedit:** 81.070
 
 **Títol del projecte:** Reforma del derecho de familia y análisis unitario de su régimen patrimonial. Atribución de derechos de propiedad, pretensiones compensatorias y atención de necesidades a su disolución por crisis y por causa de muerte DER2011-27960
+
 * **Entitat on es realitza:** Universitat Pompeu Fabra        
 * **Tipus d&#39;entitat** : Universitat
 * **Ciutat on es realitza:** Barcelona, Catalunya, Espanya
@@ -378,6 +388,7 @@ Center for South African Studies, University of Western Cape, Ciutat del Cap, Su
 * **Import concedit:** 72.600
 
 **Títol del projecte:** Análisis de los remedios (&quot;remedies&quot;) en derecho privado español según la teoría general de la aplicación del derecho (&quot;law enforcement theory&quot;) DER2010-15624
+
 * **Entitat on es realitza:** Universitat Pompeu Fabra         
 * **Tipus d&#39;entitat** : Universitat
 * **Ciutat on es realitza:** Barcelona, Catalunya, Espanya
@@ -388,6 +399,7 @@ Center for South African Studies, University of Western Cape, Ciutat del Cap, Su
 * **Import concedit:** 108.900
 
 **Títol del projecte:** El derecho de filiación ante los conflictos entre identidad biológica y parentalidad social DER2008-01809/JURI
+
 * **Entitat on es realitza:** Universitat Pompeu Fabra        
 * **Tipus d&#39;entitat** : Universitat
 * **Ciutat on es realitza:** Barcelona, Catalunya, Espanya
@@ -398,6 +410,7 @@ Center for South African Studies, University of Western Cape, Ciutat del Cap, Su
 * **Import concedit:** 73.000
 
 **Títol del projecte:** Ajuts de Suport als Grups de Recerca de Catalunya (Grup de Recerca consolidat en Dret Patrimonial) 2009, SGR 1535
+
 * **Entitat on es realitza:** Universitat Pompeu Fabra        
 * **Tipus d&#39;entitat:** Universitat
 * **Ciutat on es realitza:** Barcelona, Catalunya, Espanya
@@ -407,6 +420,7 @@ Center for South African Studies, University of Western Cape, Ciutat del Cap, Su
 * **Import concedit:** 44.000
 
 **Títol del projecte:** Seguridad de productos: la interacción entre regulación y responsabilidad SEJ 2007-60503
+
 * **Entitat on es realitza:** Universitat Pompeu Fabra         
 * **Tipus d&#39;entitat** :  Universitat
 * **Ciutat on es realitza:** Barcelona, Catalunya, Espanya
@@ -417,6 +431,7 @@ Center for South African Studies, University of Western Cape, Ciutat del Cap, Su
 * **Import concedit:** 109.400
 
 **Títol del projecte:** La responsabilidad civil como mecanismo de eficacia del Derecho: teoría general y aplicación a los accidentes sanitario-farmacéuticos y a los accidentes de trabajo SEJ 2004-05059
+
 * **Entitat on es realitza:** Universitat Pompeu Fabra         
 * **Tipus d&#39;entitat** : Universitat
 * **Ciutat on es realitza:** Barcelona, Catalunya, Espanya
@@ -428,6 +443,7 @@ Center for South African Studies, University of Western Cape, Ciutat del Cap, Su
 * **Import concedit:** 86.000
 
 **Títol del projecte:** Autonomia privada familiar i capítols matrimonials en el Dret Civil de Catalunya
+
 * **Entitat on es realitza:** Pompeu FabraUniversity        
 * **Tipus d&#39;entitat:** University
 * **Ciutat on es realitza:** Barcelona, Catalonia, Spain
@@ -439,6 +455,7 @@ Center for South African Studies, University of Western Cape, Ciutat del Cap, Su
 * **Import concedit** 3.000
 
 **Títol del projecte:** Judicial Cooperation in Family Law, Pompeu Fabra University (Law School), JAI /2003 / FP C / 035
+
 * **Entitat on es realitza:** Universitat Pompeu Fabra         
 * **Tipus d&#39;entitat** : Universitat
 * **Ciutat on es realitza:** Barcelona, Catalunya, Espanya
