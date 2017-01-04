@@ -20,12 +20,11 @@
       <li{% if page.title == 'Pizzicattos' %} class="active"{% endif %}><a href="{{ site.url }}/pizzicattos/{{page.lang}}">{{ site.t[page.lang].random }}</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-     <p>
+
       <div class="btn-group btn-group-sm" role="group" aria-label="...">
-        <a {% if page.lang == 'en' %} class="active"{% endif %} role="button" class="btn btn-default">en</a>
-        <a {% if page.lang == 'ca' %} class="active"{% endif %} role="button" class="btn btn-default">ca</a>
-        <a {% if page.lang == 'es' %} class="active"{% endif %}role="button" class="btn btn-default">es</a>
-        </p>
+        <a role="button" class="btn btn-default navbar-btn{% if page.lang == 'en' %} active{% endif %}">en</a>
+        <a role="button" class="btn btn-default navbar-btn{% if page.lang == 'ca' %} active{% endif %}">ca</a>
+        <a role="button" class="btn btn-default navbar-btn{% if page.lang == 'es' %} active{% endif %}">es</a>
 </div>
         
       </ul>
