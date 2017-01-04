@@ -123,7 +123,7 @@ Mireia Artigot i Golobardes,Will Regulation 650/2012 simplify Cross-Border Succe
 
 Mireia Artigot Golobardes, A close look to European Product Regulation: An Analysis of the Interaction Between European Product Safety Regulation and Product Liability. [Polish Law &amp; Economics Yearbook,](http://www.pseap.org/polish-yearbook-of-law-economics/) Volume 3, Editors: J. Bełdowski, K. Metelska-Szaniawska, L. Visscher. 3, pp. 167 - 211. C. H. Beck., 2012. ISBN 978-83-255-4066-1
 
-Mireia Artigot i Golobardes, Reexaminando El Derecho De Familia En Base a Las Nuevas Realidades Familiares en Europa,Jurisprudencia Argentina, Revista Jurisprudencia Argentina, Derecho y Economía, 2011 / I, vol. 13, p. 48-83, AbeledoPerrot, (2011), ** ** ISBN 978-950-20-2153-9
+Mireia Artigot i Golobardes, Reexaminando El Derecho De Familia En Base a Las Nuevas Realidades Familiares en Europa,Jurisprudencia Argentina, Revista Jurisprudencia Argentina, Derecho y Economía, 2011 / I, vol. 13, p. 48-83, AbeledoPerrot, (2011), ISBN 978-950-20-2153-9
 
 Mireia Artigot Golobardes, Economic Considerations for Regulating Marital Dissolutins in Response to new Family Structures. [BePress](https://escholarship.org/uc/item/3xd690nd=), pp. 1 - 54. scholarship University of California, 2009.
 
