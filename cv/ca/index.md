@@ -29,16 +29,20 @@ _També he treballat i estic interessada en_: Dret Comunitari i Integració Econ
 ## Docència i Recerca Actuals
 
 [Universitat Pompeu Fabra](https://www.upf.edu/fdret/), Facultat de Dret
-Professora Visitant
+
+* Professora Visitant
 
 [Universitat Pompeu Fabra](http://www.econ.upf.edu/ca/), Departament d&#39;Economia
-Professora Col.laboradora
+
+* Professora Col.laboradora
 
 [Escola Superior de Comerç Internacional](http://www.esci.upf.edu/ca), Universitat Pompeu Fabra
-Professora Associada
+
+* Professora Associada
 
 [ESADE Law School](http://www.esade.edu/web/cat/), Barcelona, Spain
-Professora Associada
+
+* Professora Associada
 
 ## Experiència Professional
 
