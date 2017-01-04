@@ -104,7 +104,7 @@ Mireia Artigot Golobardes, The Intended and Unintended Effects of the UK&#39;s N
 
 Juan José Ganuza Fernández,  Fernando Gómez Pomar,  José Penalva and Mireia Artigot Golobardes, [_Product Liability Should Reward Firm Transparency_](http://economix.fr/pdf/workshops/2016_3rd_law_eco/JGanuza.pdf),  UPF Working Paper, Department of Economics and Business, Universitat Pompeu Fabra, 2012
 
-Mireia Artigot i Golobardes,  Juan José Ganuza Fernández,  Fernando Gómez,  José Penalva_Product Liability between Contract and Tort: Taking the Contract View Seriously,_ UPF Working Paper,   Department of Law, Universitat Pompeu Fabra, 2010
+Mireia Artigot i Golobardes,  Juan José Ganuza Fernández,  Fernando Gómez,  José Penalva, Product Liability between Contract and Tort: Taking the Contract View Seriously, UPF Working Paper,   Department of Law, Universitat Pompeu Fabra, 2010
 
 ### Articles publicats a revistes
 
