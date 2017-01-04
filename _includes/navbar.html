@@ -13,7 +13,7 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="{{ site.url }}">{{ site.t[page.lang].home }} <span class="sr-only">(current)</span></a></li>
+        <li class="active"><a href="{{ site.url }}{% if page.lang != 'en' %}/{{page.lang}}/{% endif %}">{{ site.t[page.lang].home }} <span class="sr-only">(current)</span></a></li>
       <li><a href="{{ site.url }}/cv/{{page.lang}}">{{ site.t[page.lang].cv }}</a></li>
       <li><a href="{{ site.url }}/under_construction">{{ site.t[page.lang].research }}</a></li>
       <li><a href="{{ site.url }}/under_construction">{{ site.t[page.lang].teaching }}</a></li>
