@@ -21,7 +21,7 @@
 
 <style>
 .wrapper {
-  background-image: url("{{ site.url }}/images/IMG_8605.JPG");
+    background-image: url("{{ site.url }}/images/{% if page.title == "Home" %}IMG_8605.JPG{% else %}IMG_8630.JPG{% endif %}");
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
