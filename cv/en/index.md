@@ -12,7 +12,7 @@ lang: en
 
 [Cornell Law School](http://www.lawschool.cornell.edu/), **Juris Science Doctor (J.S.D.)**, 2011
 
-Dissertation: Beyond Product Liability: Its mixed nature and performance
+* Dissertation: Beyond Product Liability: Its mixed nature and performance
 
 [Cornell Law School](http://www.lawschool.cornell.edu/), **Masters in Laws (LLM)**, 2002
 
