@@ -1,6 +1,6 @@
 ---
-layout: cv
-title: research
+layout: research
+title: Research
 lang: es
 ---
 
