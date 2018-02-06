@@ -1,0 +1,36 @@
+<nav class="navbar navbar-default" id="my_navbar">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li{% if page.title == 'Home' %} class="active"{% endif %}><a href="{{ site.url }}{% if page.lang != 'en' %}/{{page.lang}}/{% endif %}">{{ site.t[page.lang].home }} <span class="sr-only">(current)</span></a></li>
+      <li{% if page.title == 'CV' %} class="active"{% endif %}><a href="{{ site.url }}/cv/{{page.lang}}">{{ site.t[page.lang].cv }}</a></li>
+      <li{% if page.title == 'Research' %} class="active"{% endif %}><a href="{{ site.url }}/research/{{page.lang}}">{{ site.t[page.lang].research }}</a></li>
+      <li{% if page.title == 'Teaching' %} class="active"{% endif %}><a href="{{ site.url }}/teaching/{{page.lang}}">{{ site.t[page.lang].teaching }}</a></li>
+      <li{% if page.title == 'Pizzicattos' %} class="active"{% endif %}><a href="{{ site.url }}/pizzicattos/{{page.lang}}">{{ site.t[page.lang].random }}</a></li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+
+      <div class="btn-group btn-group-sm" role="group" aria-label="...">
+        <a href="{%if page.title == 'Home' %}{{ site.url }}{% else %}../en/{% endif %}" role="button" class="btn btn-default navbar-btn{% if page.lang == 'en' %} active{% endif %}">en</a>
+        <a href="../ca/" role="button" class="btn btn-default navbar-btn{% if page.lang == 'ca' %} active{% endif %}">ca</a>
+        <a href="../es/" role="button" class="btn btn-default navbar-btn{% if page.lang == 'es' %} active{% endif %}">es</a>
+</div>
+        
+      </ul>
+      
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+
+
